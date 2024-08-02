@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 44,
-    "active_num": 35,
-    "error_num": 9,
-    "article_num": 150,
-    "last_updated_time": "2024-08-02 19:28:24"
+    "active_num": 36,
+    "error_num": 8,
+    "article_num": 151,
+    "last_updated_time": "2024-08-02 20:18:54"
   },
   "article_data": [
     {
@@ -195,6 +195,13 @@
       "link": "https://xyzbz.cn/archives/1206/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
+      "title": "接入雷池WAF阻止恶意流量&常见问题",
+      "created": "2024-07-26 08:53",
+      "link": "https://hotaruahh.top/2024/07/safeline/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "跨域解决方案梳理",
@@ -1051,7 +1058,7 @@
       "avatar": "https://blog.zeruns.tech/tx.jpg"
     },
     {
-      "title": "高性价比 和 便宜的 VPS/云服务器 推荐 2024/6/14更新",
+      "title": "高性价比 和 便宜的 VPS/云服务器 推荐 2024/8/2更新",
       "created": "2020-03-30 01:59",
       "link": "https://blog.zeruns.tech/archives/383.html",
       "author": "Zeruns's Blog",
