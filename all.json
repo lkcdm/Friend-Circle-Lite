@@ -4,7 +4,7 @@
     "active_num": 36,
     "error_num": 8,
     "article_num": 151,
-    "last_updated_time": "2024-08-07 08:48:17"
+    "last_updated_time": "2024-08-07 14:15:52"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://www.lapis.cafe/archives/zhi-shun-xi-wan-bian-zhi-wu-ji-gen-gu-bu-bian-zhi-wu",
       "author": "时歌的博客",
       "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
+    {
+      "title": "在Mac上使用CosyVoice教程：人声克隆，跨语种复刻、AITTS文本转语音",
+      "created": "2024-08-06 18:40",
+      "link": "https://blog.zhheo.com/p/e950.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "姐姐，好久不见",
@@ -307,13 +314,6 @@
       "link": "https://blog.bsgun.cn/posts/609bcdb9/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "如何更改Mac上左上角的苹果图标样式，个性化自定义Mac美化菜单栏",
-      "created": "2024-07-24 17:07",
-      "link": "https://blog.zhheo.com/p/a61a.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "杜老师说稿件征集",
