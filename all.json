@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 50,
-    "active_num": 42,
+    "friends_num": 51,
+    "active_num": 43,
     "error_num": 8,
-    "article_num": 180,
-    "last_updated_time": "2024-08-14 02:14:26"
+    "article_num": 185,
+    "last_updated_time": "2024-08-14 08:48:27"
   },
   "article_data": [
     {
@@ -83,6 +83,13 @@
       "link": "https://www.zhxubk.cn/archives/3c78cefa.html",
       "author": "粥粥博客志",
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
+    },
+    {
+      "title": "月度随笔|2024-07",
+      "created": "2024-08-10 08:00",
+      "link": "https://blog.xing-ye.top/posts/1bbf45b1/",
+      "author": "XINGYE's Blog",
+      "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
       "title": "本地推送Github Actions再推送到服务器",
@@ -757,6 +764,13 @@
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
+      "title": "月度随笔|2024-06",
+      "created": "2024-06-30 08:00",
+      "link": "https://blog.xing-ye.top/posts/6cb87527/",
+      "author": "XINGYE's Blog",
+      "avatar": "https://blog.xing-ye.top/avatar.webp"
+    },
+    {
       "title": "Hexo文章加密测试",
       "created": "2024-06-29 18:54",
       "link": "http://zxwlove.xyz/posts/e7958949.html",
@@ -799,6 +813,13 @@
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
+      "title": "个人博客图床存储实践方案",
+      "created": "2024-06-23 08:00",
+      "link": "https://blog.xing-ye.top/posts/ae793e83/",
+      "author": "XINGYE's Blog",
+      "avatar": "https://blog.xing-ye.top/avatar.webp"
+    },
+    {
       "title": "我的一些胡言乱语",
       "created": "2024-06-20 12:55",
       "link": "https://mnchen.cn/posts/1008.html",
@@ -825,6 +846,13 @@
       "link": "https://blog.bsgun.cn/posts/9642fffa/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "虚拟机挂起后无法连接Docker容器的问题",
+      "created": "2024-06-16 08:00",
+      "link": "https://blog.xing-ye.top/posts/7b314330/",
+      "author": "XINGYE's Blog",
+      "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
       "title": "云崽bot 插件",
@@ -860,6 +888,13 @@
       "link": "http://blog.awaae001.top/posts/26785.html",
       "author": "呓语梦轩",
       "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+    },
+    {
+      "title": "《福格行为模型》全书随记",
+      "created": "2024-06-03 08:00",
+      "link": "https://blog.xing-ye.top/posts/1a6413b1/",
+      "author": "XINGYE's Blog",
+      "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
       "title": "2024年云服务器部署迁移流程",
