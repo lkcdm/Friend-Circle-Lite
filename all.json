@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 41,
-    "error_num": 11,
-    "article_num": 175,
-    "last_updated_time": "2024-08-17 08:47:35"
+    "active_num": 42,
+    "error_num": 10,
+    "article_num": 185,
+    "last_updated_time": "2024-08-17 14:15:09"
   },
   "article_data": [
     {
@@ -41,6 +41,13 @@
       "link": "https://dusays.com/738/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "Uptime kuma | 一个美观的监控程序",
+      "created": "2024-08-15 21:15",
+      "link": "https://www.chacks.top/archives/1723642262659",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "浅谈WebAuthn与Passkey",
@@ -132,6 +139,13 @@
       "link": "https://www.liuzhen932.top/posts/default/githistory",
       "author": "liuzhen932 的小窝",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
+    },
+    {
+      "title": "为你的Windwos美化",
+      "created": "2024-08-11 21:51",
+      "link": "https://www.chacks.top/archives/1723380497292",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "开学季~距开学正式倒计时10天",
@@ -358,20 +372,6 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "系统究竟能极致精简到什么程度？",
-      "created": "2024-08-01 20:26",
-      "link": "https://hexo.dreamerhe.cn/posts/14897/",
-      "author": "梦想之都",
-      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
-    },
-    {
-      "title": "系统重装记",
-      "created": "2024-08-01 20:25",
-      "link": "https://hexo.dreamerhe.cn/posts/55859/",
-      "author": "梦想之都",
-      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
-    },
-    {
       "title": "那些我遇到过或自己总结过的一些句子",
       "created": "2024-08-01 20:25",
       "link": "https://hexo.dreamerhe.cn/posts/36446/",
@@ -389,6 +389,13 @@
       "title": "七月小记",
       "created": "2024-08-01 20:17",
       "link": "https://hexo.dreamerhe.cn/posts/64155/",
+      "author": "梦想之都",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
+    },
+    {
+      "title": "相思之梦",
+      "created": "2024-08-01 20:17",
+      "link": "https://hexo.dreamerhe.cn/posts/5430/",
       "author": "梦想之都",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
     },
@@ -470,6 +477,13 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "为你的Obsidian配置图片自动上传图床",
+      "created": "2024-07-26 12:22",
+      "link": "https://www.chacks.top/archives/1721721495290",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
+    },
+    {
       "title": "跨域解决方案梳理",
       "created": "2024-07-26 06:26",
       "link": "https://blog.shiguang666.eu.org/2024/07/25/7f077adfda8a/",
@@ -489,6 +503,20 @@
       "link": "https://blog.bsgun.cn/posts/609bcdb9/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "我对友链的小看法（仅个人）",
+      "created": "2024-07-24 10:06",
+      "link": "https://hexo.dreamerhe.cn/posts/60388/",
+      "author": "梦想之都",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
+    },
+    {
+      "title": "PicList：安装与配置兰空图床的指南",
+      "created": "2024-07-23 15:13",
+      "link": "https://www.chacks.top/archives/1721718381504",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "说说：#1721624456",
@@ -538,6 +566,13 @@
       "link": "https://lin-blog.xyz/archives/storyteller",
       "author": "Lin-Blog",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/06/17/q70i.png"
+    },
+    {
+      "title": "星尘twikoo表情包",
+      "created": "2024-07-22 00:00",
+      "link": "https://mnchen.cn/posts/1009.html",
+      "author": "前尘小筑",
+      "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
     },
     {
       "title": "行纪 | 西北大环线前三日 - 从大山到戈壁",
@@ -601,6 +636,13 @@
       "link": "https://physnya.top/2024/07/16/%E2%8C%88%E8%AE%A1%E5%88%92%E2%8C%8B%E8%AE%B2%E5%BA%A7/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "Debian安装VoceChat",
+      "created": "2024-07-14 13:08",
+      "link": "https://www.chacks.top/archives/1720930345182",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "2073：【例2.16 】三角形面积",
@@ -799,6 +841,13 @@
       "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
+      "title": "我的一些胡言乱语",
+      "created": "2024-06-20 12:55",
+      "link": "https://mnchen.cn/posts/1008.html",
+      "author": "前尘小筑",
+      "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
+    },
+    {
       "title": "hexo部署到vercel和服务器多线路解析",
       "created": "2024-06-18 04:31",
       "link": "https://blog.bsgun.cn/posts/78e9208e/",
@@ -890,6 +939,13 @@
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
     },
     {
+      "title": "网络学习笔记",
+      "created": "2024-05-09 18:34",
+      "link": "https://mnchen.cn/posts/1003.html",
+      "author": "前尘小筑",
+      "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
+    },
+    {
       "title": "随拍",
       "created": "2024-05-02 23:16",
       "link": "https://starsei.com/archives/133/",
@@ -902,6 +958,13 @@
       "link": "https://blog.sloray.com/archives/Configuring-Waterfall-Plumes",
       "author": "静线数据库",
       "avatar": "https://i1.wp.com/blog.sloray.com/usr/uploads/mainavatar.webp"
+    },
+    {
+      "title": "网站更名前尘小筑",
+      "created": "2024-04-20 12:55",
+      "link": "https://mnchen.cn/posts/1002.html",
+      "author": "前尘小筑",
+      "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
     },
     {
       "title": "现实主义大修 Wiki 翻译版 | 各类引擎的用途和分级方法",
@@ -979,6 +1042,13 @@
       "link": "https://blog.nineya.com/archives/159.html",
       "author": "玖涯博客",
       "avatar": "https://blog.nineya.com/favicon.png"
+    },
+    {
+      "title": "cdnfly开心版搭建方法(主控+授权端)",
+      "created": "2024-02-13 16:55",
+      "link": "https://mnchen.cn/posts/56134.html",
+      "author": "前尘小筑",
+      "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
     },
     {
       "title": "第三方网易音乐播放器安利",
