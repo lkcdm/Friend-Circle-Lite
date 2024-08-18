@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 52,
-    "active_num": 41,
-    "error_num": 11,
-    "article_num": 180,
-    "last_updated_time": "2024-08-18 08:53:34"
+    "active_num": 42,
+    "error_num": 10,
+    "article_num": 185,
+    "last_updated_time": "2024-08-18 14:15:31"
   },
   "article_data": [
+    {
+      "title": "有些人能不能不要小丑了",
+      "created": "2024-08-18 11:33",
+      "link": "https://blog.goodboyboy.top/posts/3047485723.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+    },
     {
       "title": "介绍两款好用的面板服，可一键开各种MC整合包、幻兽帕鲁、七日杀、CSGO等服务器！游戏开服教程，游戏联机教程",
       "created": "2024-08-18 09:17",
@@ -106,6 +113,13 @@
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
+      "title": "Uptime kuma | 一个美观的监控程序",
+      "created": "2024-08-15 18:07",
+      "link": "https://www.chacks.top/archives/1723642262659",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
+    },
+    {
       "title": "提速！我对前端优化的一点建议",
       "created": "2024-08-15 13:26",
       "link": "https://www.liuzhen932.top/posts/default/speedup-1",
@@ -181,6 +195,13 @@
       "link": "https://www.liuzhen932.top/posts/default/githistory",
       "author": "liuzhen932 的小窝",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
+    },
+    {
+      "title": "为你的Windwos美化",
+      "created": "2024-08-11 21:51",
+      "link": "https://www.chacks.top/archives/1723380497292",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "开学季~距开学正式倒计时10天",
@@ -358,13 +379,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "7月杂记",
-      "created": "2024-08-03 13:34",
-      "link": "https://blog.goodboyboy.top/posts/294701568.html",
-      "author": "GoodBoyboy's Blog",
-      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
-    },
-    {
       "title": "小更新一下以前的“轻收藏”主题模板",
       "created": "2024-08-03 02:09",
       "link": "https://luolt.cn/archives/2874.html",
@@ -505,6 +519,13 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "为你的Obsidian配置图片自动上传图床",
+      "created": "2024-07-26 12:22",
+      "link": "https://www.chacks.top/archives/1721721495290",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
+    },
+    {
       "title": "跨域解决方案梳理",
       "created": "2024-07-26 06:26",
       "link": "https://blog.shiguang666.eu.org/2024/07/25/7f077adfda8a/",
@@ -531,6 +552,13 @@
       "link": "https://hexo.dreamerhe.cn/posts/60388/",
       "author": "梦想之都",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
+    },
+    {
+      "title": "PicList：安装与配置兰空图床的指南",
+      "created": "2024-07-23 15:13",
+      "link": "https://www.chacks.top/archives/1721718381504",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "说说：#1721624456",
@@ -643,6 +671,13 @@
       "link": "https://physnya.top/2024/07/16/%E2%8C%88%E8%AE%A1%E5%88%92%E2%8C%8B%E8%AE%B2%E5%BA%A7/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "Debian安装VoceChat",
+      "created": "2024-07-14 13:08",
+      "link": "https://www.chacks.top/archives/1720930345182",
+      "author": "星途语梦",
+      "avatar": "https://bu.dusays.com/2024/07/09/668d4448c1982.png"
     },
     {
       "title": "2073：【例2.16 】三角形面积",
