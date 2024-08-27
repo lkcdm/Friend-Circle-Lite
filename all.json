@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 58,
-    "active_num": 45,
-    "error_num": 13,
-    "article_num": 201,
-    "last_updated_time": "2024-08-27 14:16:20"
+    "active_num": 46,
+    "error_num": 12,
+    "article_num": 207,
+    "last_updated_time": "2024-08-27 20:20:41"
   },
   "article_data": [
+    {
+      "title": "『Navidrome』你的私人自建音乐库",
+      "created": "2024-08-27 15:34",
+      "link": "https://hotaruahh.top/2024/08/27/navidrome/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
+    },
     {
       "title": "感谢大恩人klcdm+域名恢复+请友友们重新申请友链",
       "created": "2024-08-27 10:24",
@@ -421,7 +428,7 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "为你的Windwos美化",
+      "title": "为你的Windows美化",
       "created": "2024-08-11 21:51",
       "link": "https://www.chacks.top/archives/1723380497292",
       "author": "星途语梦",
@@ -575,6 +582,13 @@
       "avatar": "https://uesu.cn-sy1.rains3.com/halo/gptlogo.png"
     },
     {
+      "title": "【短文】-彼时故城皆繁华",
+      "created": "2024-08-04 15:07",
+      "link": "http://blog.awaae001.top/posts/2042429.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+    },
+    {
       "title": "使用 Squid 搭建 Http 代理服务器隐藏 IP",
       "created": "2024-08-04 06:48",
       "link": "https://blog.nineya.com/archives/162.html",
@@ -617,6 +631,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "一枝红信出墙来-steam假激活入库",
+      "created": "2024-07-31 14:49",
+      "link": "http://blog.awaae001.top/posts/38498.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+    },
+    {
       "title": "Docker和iptables的恩怨纠葛",
       "created": "2024-07-31 13:43",
       "link": "https://www.situpc.cn/archives/Doip",
@@ -629,6 +650,13 @@
       "link": "https://blog.sinzmise.top/posts/15799/",
       "author": "中弦星空魔法屋",
       "avatar": "https://blog.sinzmise.top/img/512.png"
+    },
+    {
+      "title": "飞跃13号房-对网瘾治疗披露与反抗",
+      "created": "2024-07-29 16:24",
+      "link": "http://blog.awaae001.top/posts/6884.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
       "title": "Weekly通讯-第七期：跳大神、回报预期、奥弗顿窗口和为死亡定价",
@@ -869,6 +897,13 @@
       "avatar": "https://bokebo.com/logo.png"
     },
     {
+      "title": "时代造青年，还是青年造时代？",
+      "created": "2024-07-07 15:31",
+      "link": "http://blog.awaae001.top/posts/908575.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+    },
+    {
       "title": "一次比较离谱的电脑维修经历",
       "created": "2024-07-06 20:28",
       "link": "https://lonelyenderman.top/archives/1095",
@@ -1007,6 +1042,13 @@
       "link": "https://luoca.cn/archives/me.html",
       "author": "洛卡日记",
       "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
+    },
+    {
+      "title": "hexo + github-action持续集成",
+      "created": "2024-06-07 17:18",
+      "link": "http://blog.awaae001.top/posts/26785.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
       "title": "《福格行为模型》全书随记",
