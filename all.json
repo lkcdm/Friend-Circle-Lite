@@ -3,10 +3,17 @@
     "friends_num": 58,
     "active_num": 46,
     "error_num": 12,
-    "article_num": 210,
-    "last_updated_time": "2024-08-29 14:17:37"
+    "article_num": 212,
+    "last_updated_time": "2024-08-29 20:21:33"
   },
   "article_data": [
+    {
+      "title": "智谱清言上手：文本生成强大，支持AI视频和AI画图",
+      "created": "2024-08-29 14:35",
+      "link": "https://blog.zhheo.com/p/15d3.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
     {
       "title": "Sun-Panel一个非常奈斯的浏览器首页",
       "created": "2024-08-29 04:13",
@@ -55,6 +62,13 @@
       "link": "https://www.lapis.cafe/archives/openwebui_deploy",
       "author": "时歌的博客",
       "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
+    {
+      "title": "『Navidrome』你的私人自建音乐库",
+      "created": "2024-08-27 15:34",
+      "link": "https://hotaruahh.top/2024/08/27/navidrome/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "感谢大恩人klcdm+域名恢复+请友友们重新申请友链",
@@ -132,6 +146,13 @@
       "link": "https://ooo.gg/1673.html",
       "author": "小雀的啾窝",
       "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
+    },
+    {
+      "title": "服务器太贵？使用VMware享受丝滑的虚拟机开发&体验",
+      "created": "2024-08-25 05:30",
+      "link": "https://hotaruahh.top/2024/08/25/vmware/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "微分几何入门与广义相对论 习题1",
@@ -627,13 +648,6 @@
       "title": "Apple Watch 查找设备没有设备，提示：未找到可定位的Apple设备解决方法",
       "created": "2024-08-05 14:16",
       "link": "https://blog.zhheo.com/p/2398.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Mac电脑插入移动硬盘机械硬盘就卡顿？是硬盘休眠惹的祸，解决M1硬盘休眠问题",
-      "created": "2024-08-05 10:04",
-      "link": "https://blog.zhheo.com/p/bf38.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
