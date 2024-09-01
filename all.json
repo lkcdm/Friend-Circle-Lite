@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 58,
-    "active_num": 46,
-    "error_num": 12,
-    "article_num": 210,
-    "last_updated_time": "2024-09-01 20:19:17"
+    "active_num": 45,
+    "error_num": 13,
+    "article_num": 200,
+    "last_updated_time": "2024-09-02 02:14:11"
   },
   "article_data": [
     {
@@ -29,11 +29,11 @@
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
-      "title": "Windows工具-让你的Windows锦上添花，添了又添",
-      "created": "2024-09-01 11:24",
-      "link": "http://blog.awaae001.top/posts/44173.html",
-      "author": "呓语梦轩",
-      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+      "title": "微分几何入门与广义相对论 Lesson10",
+      "created": "2024-09-01 22:02",
+      "link": "https://physnya.top/2024/09/01/Lesson%2010/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "Ephemeralis-Weekly（5）：只是去做",
@@ -55,6 +55,13 @@
       "link": "https://rong6.cn/archives/alist-and-navidromeda-create-music-library",
       "author": "荣6的博客",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/06/xu8ha4.png"
+    },
+    {
+      "title": "2024-08小记",
+      "created": "2024-08-31 19:33",
+      "link": "https://blog.sinzmise.top/posts/15688/",
+      "author": "中弦星空魔法屋",
+      "avatar": "https://blog.sinzmise.top/img/512.png"
     },
     {
       "title": "Hexo博客添加RSS订阅功能",
@@ -232,13 +239,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "【测试】设置网站全局字体并单独设置标题字体",
-      "created": "2024-08-26 05:22",
-      "link": "https://luoca.cn/archives/46.html",
-      "author": "洛卡日记",
-      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
-    },
-    {
       "title": "Docker compose五分钟部署Apisix网关+图形化管理",
       "created": "2024-08-25 19:36",
       "link": "https://www.biliwind.com/19712.html?pk_campaign=feed&pk_kwd=docker-compose%25e4%25ba%2594%25e5%2588%2586%25e9%2592%259f%25e9%2583%25a8%25e7%25bd%25b2apisix%25e7%25bd%2591%25e5%2585%25b3%25e5%259b%25be%25e5%25bd%25a2%25e5%258c%2596%25e7%25ae%25a1%25e7%2590%2586",
@@ -286,13 +286,6 @@
       "link": "https://blog.nineya.com/archives/164.html",
       "author": "玖涯博客",
       "avatar": "https://blog.nineya.com/favicon.png"
-    },
-    {
-      "title": "【记录】HandSome主题接入不蒜子统计全站访客数",
-      "created": "2024-08-24 06:38",
-      "link": "https://luoca.cn/archives/99.html",
-      "author": "洛卡日记",
-      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "现实主义大修 Wiki 翻译版 | Ferram 关于上升剖面和推重比的一些提示",
@@ -393,13 +386,6 @@
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
-      "title": "【教程】优雅的使用RSS在手机上阅读博客",
-      "created": "2024-08-19 14:02",
-      "link": "https://luoca.cn/archives/23.html",
-      "author": "洛卡日记",
-      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
-    },
-    {
       "title": "Mac如何查看移动硬盘盒温度？查看SSD固态硬盘工作温度教程",
       "created": "2024-08-19 11:23",
       "link": "https://blog.zhheo.com/p/e6b0.html",
@@ -412,13 +398,6 @@
       "link": "https://dusays.com/739/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
-      "title": "【喵布娘】本站看板娘图集",
-      "created": "2024-08-18 14:18",
-      "link": "https://luoca.cn/archives/22.html",
-      "author": "洛卡日记",
-      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "有些人能不能不要小丑了",
@@ -792,7 +771,7 @@
       "avatar": "https://starsei.com/favicon.ico"
     },
     {
-      "title": "Umami？不，还是51LA",
+      "title": "配置Umami到about页",
       "created": "2024-07-25 02:11",
       "link": "https://blog.bsgun.cn/posts/609bcdb9/",
       "author": "梦爱吃鱼",
@@ -923,13 +902,6 @@
       "link": "https://starsei.com/archives/1/",
       "author": "猫不吃鱼",
       "avatar": "https://starsei.com/favicon.ico"
-    },
-    {
-      "title": "在科技楼的角落",
-      "created": "2024-07-11 12:39",
-      "link": "https://physnya.top/2024/07/11/%E5%9C%A8%E7%A7%91%E6%8A%80%E6%A5%BC%E7%9A%84%E8%A7%92%E8%90%BD%E2%80%94%E2%80%94%E8%AE%B0%E4%B8%80%E4%BA%9B%E7%AB%9E%E8%B5%9B%E5%9B%9E%E5%BF%86/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "Spine-Viewer-Vue——一个简单的Spine查看器",
@@ -1072,11 +1044,11 @@
       "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
-      "title": "【关于本站】网站的相关情况",
-      "created": "2024-06-09 02:12",
-      "link": "https://luoca.cn/archives/me.html",
-      "author": "洛卡日记",
-      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
+      "title": "hexo + github-action持续集成",
+      "created": "2024-06-07 17:18",
+      "link": "http://blog.awaae001.top/posts/26785.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
       "title": "《福格行为模型》全书随记",
@@ -1096,13 +1068,6 @@
       "title": "2024-05小记",
       "created": "2024-05-27 05:18",
       "link": "https://blog.sinzmise.top/posts/10021/",
-      "author": "中弦星空魔法屋",
-      "avatar": "https://blog.sinzmise.top/img/512.png"
-    },
-    {
-      "title": "Ruffle测试",
-      "created": "2024-05-26 05:12",
-      "link": "https://blog.sinzmise.top/posts/57692/",
       "author": "中弦星空魔法屋",
       "avatar": "https://blog.sinzmise.top/img/512.png"
     },
@@ -1226,13 +1191,6 @@
       "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
     },
     {
-      "title": "第三方网易音乐播放器安利",
-      "created": "2024-02-11 20:37",
-      "link": "https://kamiasuka.top/archives/870",
-      "author": "KAMIASUKA’s Blog",
-      "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
       "title": "使用Github Action定时重启邮件服务",
       "created": "2024-02-10 02:52",
       "link": "https://www.ordchaos.com/posts/e9c784c5/",
@@ -1282,25 +1240,11 @@
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
-      "title": "使用Docker部署chatGPT",
-      "created": "2023-12-20 11:17",
-      "link": "https://kamiasuka.top/archives/766",
-      "author": "KAMIASUKA’s Blog",
-      "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
       "title": "一条通知 - 优秀的通知功能增强和管理的工具（Android）",
       "created": "2023-12-16 09:46",
       "link": "https://stvue.com/archives/139.html",
       "author": "芸熙の小屋",
       "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
-    },
-    {
-      "title": "Argon主题美化",
-      "created": "2023-12-15 13:23",
-      "link": "https://kamiasuka.top/archives/726",
-      "author": "KAMIASUKA’s Blog",
-      "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
       "title": "江小二工具箱 - 免费抖音作品提取、违禁词检测、批量下载、去水印工具",
@@ -1310,25 +1254,11 @@
       "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
-      "title": "博客主题推荐",
-      "created": "2023-12-11 22:20",
-      "link": "https://kamiasuka.top/archives/639",
-      "author": "KAMIASUKA’s Blog",
-      "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
       "title": "ZeVideo - Typecho视频主题重构版（支持采集功能）",
       "created": "2023-12-10 10:37",
       "link": "https://stvue.com/archives/124.html",
       "author": "芸熙の小屋",
       "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
-    },
-    {
-      "title": "个人博客网站搭建",
-      "created": "2023-12-09 21:06",
-      "link": "https://kamiasuka.top/archives/631",
-      "author": "KAMIASUKA’s Blog",
-      "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
       "title": "湖州之旅 · 太湖边的一座古城",
