@@ -4,7 +4,7 @@
     "active_num": 48,
     "error_num": 13,
     "article_num": 219,
-    "last_updated_time": "2024-09-15 02:13:59"
+    "last_updated_time": "2024-09-15 08:57:44"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://www.iczrx.cn/archives/110/",
       "author": "晚夜的个人博客",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640"
+    },
+    {
+      "title": "[译] 谁正在使用 Accept-Language 请求头？",
+      "created": "2024-09-15 07:07",
+      "link": "https://www.liuzhen932.top/posts/t/who-uses-accept-language-header",
+      "author": "liuzhen932 的小窝",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
     },
     {
       "title": "上市公司财报分析思路",
@@ -27,6 +34,13 @@
       "link": "https://physnya.top/2024/09/13/integral-handout/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "[译] 余弦相似度是如何工作的？",
+      "created": "2024-09-13 01:41",
+      "link": "https://www.liuzhen932.top/posts/t/cosine-similarity",
+      "author": "liuzhen932 的小窝",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
     },
     {
       "title": "【尚硅谷】Spring Boot和Spring Cloud版本选型",
@@ -701,25 +715,11 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
-      "title": "记一次服务器 oversized chunk 的应急响应和事故分析",
-      "created": "2024-08-16 06:58",
-      "link": "https://www.liuzhen932.top/posts/mc/oversized-chunk",
-      "author": "liuzhen932 的小窝",
-      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
-    },
-    {
       "title": "Uptime kuma | 一个美观的监控程序",
       "created": "2024-08-15 21:15",
       "link": "https://www.chacks.top/archives/1723642262659",
       "author": "星途语梦",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
-    },
-    {
-      "title": "提速！我对前端优化的一点建议",
-      "created": "2024-08-15 13:26",
-      "link": "https://www.liuzhen932.top/posts/default/speedup-1",
-      "author": "liuzhen932 的小窝",
-      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/04/30/piul5c.png"
     },
     {
       "title": "无服务器AI摘要后端——OrdChaosGPT",
