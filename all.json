@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 61,
+    "friends_num": 62,
     "active_num": 48,
-    "error_num": 13,
-    "article_num": 215,
-    "last_updated_time": "2024-09-16 02:14:42"
+    "error_num": 14,
+    "article_num": 220,
+    "last_updated_time": "2024-09-16 08:56:18"
   },
   "article_data": [
     {
@@ -92,6 +92,13 @@
       "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
+      "title": "高中百题计划",
+      "created": "2024-09-12 21:26",
+      "link": "https://blog.kfdzcoffee.cn/archives/highsch100",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "高等微积分笔记 Lesson 1",
       "created": "2024-09-11 21:57",
       "link": "https://physnya.top/2024/09/11/integral1/",
@@ -127,11 +134,11 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640"
     },
     {
-      "title": "顶着三十几度的天气去钓鱼了",
-      "created": "2024-09-11 00:31",
-      "link": "https://luolt.cn/archives/2886.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+      "title": "【日常】2024年了，我还在用微信6.7.3？附微信降级方法",
+      "created": "2024-09-11 03:30",
+      "link": "https://luoca.cn/archives/51.html",
+      "author": "洛卡日记",
+      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "WordPress插件速览-图片优化-WebP",
@@ -246,6 +253,13 @@
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
+      "title": "近况·24年08月",
+      "created": "2024-09-05 23:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "Mac关闭耳机线控，关闭键盘的媒体控制，线控启动Apple Music功能",
       "created": "2024-09-05 15:15",
       "link": "https://blog.zhheo.com/p/13e3.html",
@@ -281,13 +295,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "&quot;微博客&quot;一款自己开发自己用的垃圾源码（慢慢更新中）",
-      "created": "2024-09-05 04:23",
-      "link": "https://luolt.cn/archives/2884.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
-    },
-    {
       "title": "中国与世界的现代化专题（二）：货币的本质与中国的税收体系",
       "created": "2024-09-05 02:47",
       "link": "https://www.lapis.cafe/archives/zhong-guo-yu-shi-jie-de-xian-dai-hua-zhuan-ti-er-huo-bi-de-ben-zhi-yu-zhong-guo-de-shui-shou-ti-xi",
@@ -316,6 +323,13 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "【日常】暑假减肥，痛但起飞",
+      "created": "2024-09-04 04:06",
+      "link": "https://luoca.cn/archives/27.html",
+      "author": "洛卡日记",
+      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
+    },
+    {
       "title": "站长15岁啦~",
       "created": "2024-09-03 08:07",
       "link": "https://hexo.dreamerhe.cn/posts/43585/",
@@ -342,13 +356,6 @@
       "link": "https://www.zhxubk.cn/archives/edd90d9c.html",
       "author": "粥粥博客志",
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
-    },
-    {
-      "title": "Mini-Cover：简洁的在线生成封面网站",
-      "created": "2024-09-01 23:18",
-      "link": "https://luolt.cn/archives/2883.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
       "title": "微分几何入门与广义相对论 Lesson10",
@@ -428,13 +435,6 @@
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
     },
     {
-      "title": "ServerBox免费的全平台服务器监控及SSH客户端",
-      "created": "2024-08-30 05:26",
-      "link": "https://luolt.cn/archives/2882.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
-    },
-    {
       "title": "Hexo美化：自适应切换渐进式加载首页图",
       "created": "2024-08-29 20:48",
       "link": "https://andersonhjb.github.io/posts/cf45a15f.html",
@@ -447,13 +447,6 @@
       "link": "https://hexo.dreamerhe.cn/posts/20562/",
       "author": "梦想之都",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/20/m006u9.png"
-    },
-    {
-      "title": "Sun-Panel一个非常奈斯的浏览器首页",
-      "created": "2024-08-29 04:13",
-      "link": "https://luolt.cn/archives/2881.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
       "title": "关于主题的一些魔改",
@@ -517,6 +510,13 @@
       "link": "https://andersonhjb.github.io/posts/d50a.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "【测试】设置网站全局字体并单独设置标题字体",
+      "created": "2024-08-26 05:22",
+      "link": "https://luoca.cn/archives/46.html",
+      "author": "洛卡日记",
+      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "Docker compose五分钟部署Apisix网关+图形化管理",
@@ -636,6 +636,13 @@
       "link": "https://dusays.com/739/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "【喵布娘】本站看板娘图集",
+      "created": "2024-08-18 14:18",
+      "link": "https://luoca.cn/archives/22.html",
+      "author": "洛卡日记",
+      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "Hello，Shiki",
@@ -827,6 +834,13 @@
       "avatar": "https://blog.sinzmise.top/img/512.png"
     },
     {
+      "title": "近况·24年07月",
+      "created": "2024-08-02 10:16",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2407",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "学习笔记——STL模板库之数据结构",
       "created": "2024-08-02 00:09",
       "link": "https://www.ordchaos.com/posts/8752b65a/",
@@ -867,6 +881,13 @@
       "link": "https://rong6.cn/archives/linux-minecraft-geyser",
       "author": "荣6的博客",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/06/xu8ha4.png"
+    },
+    {
+      "title": "站点域名即将变更公告",
+      "created": "2024-07-30 20:35",
+      "link": "https://blog.kfdzcoffee.cn/archives/domainchangenotice",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "飞跃13号房-对网瘾治疗披露与反抗",
@@ -930,6 +951,13 @@
       "link": "https://mnchen.cn/posts/1009.html",
       "author": "前尘小筑",
       "avatar": "https://imgse.koxiuqiu.cn/i/2024/07/07/67t08.png"
+    },
+    {
+      "title": "近期站点重大事件",
+      "created": "2024-07-21 17:23",
+      "link": "https://blog.kfdzcoffee.cn/archives/bigevents-01",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "搭建TG文件直链机器人",
@@ -1126,6 +1154,13 @@
       "link": "https://atxrom.com/archives/11/",
       "author": "小熊熊",
       "avatar": "https://i1.wp.com/atxrom.com/logo.png"
+    },
+    {
+      "title": "【关于本站】网站的相关情况",
+      "created": "2024-06-09 02:12",
+      "link": "https://luoca.cn/archives/me.html",
+      "author": "洛卡日记",
+      "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
     },
     {
       "title": "《福格行为模型》全书随记",
