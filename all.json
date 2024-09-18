@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 64,
-    "active_num": 50,
-    "error_num": 14,
-    "article_num": 235,
-    "last_updated_time": "2024-09-18 14:17:54"
+    "active_num": 49,
+    "error_num": 15,
+    "article_num": 230,
+    "last_updated_time": "2024-09-18 20:22:10"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://blog.liushen.fun/posts/95c77d9e/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "升级系统那点事",
+      "created": "2024-09-18 08:00",
+      "link": "https://www.yoghurtlee.com/upgrading-systems/",
+      "author": "园子里的日光",
+      "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
       "title": "花好月圆夜 | 祝小伙伴们中秋快乐~",
@@ -122,7 +129,7 @@
     {
       "title": "诺怡 Python 笔记",
       "created": "2024-09-15 17:06",
-      "link": "https://andersonhjb.github.io/posts/65db6129.html",
+      "link": "https://blog.bornforthis.cn/posts/65db6129.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
@@ -160,13 +167,6 @@
       "link": "https://www.lapis.cafe/archives/shang-shi-gong-si-cai-bao-fen-xi-si-lu",
       "author": "时歌的博客",
       "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
-    },
-    {
-      "title": "Docker安装Napcat反向ws",
-      "created": "2024-09-14 23:17",
-      "link": "https://atxrom.com/archives/26/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "高等微积分 课堂讲义",
@@ -484,6 +484,13 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
+      "title": "使用 Docker 部署 Opengist 开源代码片段分享工具",
+      "created": "2024-08-31 00:00",
+      "link": "https://dusays.com/743/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
       "title": "白嫖github的gpt-4o",
       "created": "2024-08-30 16:37",
       "link": "https://zaochuanqiu.online/archives/bai-piao-githubde-gpt-4o",
@@ -521,7 +528,7 @@
     {
       "title": "Hexo美化：自适应切换渐进式加载首页图",
       "created": "2024-08-29 20:48",
-      "link": "https://andersonhjb.github.io/posts/cf45a15f.html",
+      "link": "https://blog.bornforthis.cn/posts/cf45a15f.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
@@ -563,7 +570,7 @@
     {
       "title": "网站文章编写笔记",
       "created": "2024-08-28 00:03",
-      "link": "https://andersonhjb.github.io/posts/0.html",
+      "link": "https://blog.bornforthis.cn/posts/0.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
@@ -591,7 +598,7 @@
     {
       "title": "安知鱼主题标签 Tag Plugins",
       "created": "2024-08-26 15:55",
-      "link": "https://andersonhjb.github.io/posts/d50a.html",
+      "link": "https://blog.bornforthis.cn/posts/d50a.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
@@ -715,25 +722,11 @@
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
-      "title": "PicHoro 一个用于快速上传图片和管理图床的移动端工具",
-      "created": "2024-08-19 00:00",
-      "link": "https://dusays.com/739/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
       "title": "【喵布娘】本站看板娘图集",
       "created": "2024-08-18 14:18",
       "link": "https://luoca.cn/archives/22.html",
       "author": "洛卡日记",
       "avatar": "https://bu.dusays.com/2024/08/18/66c1b1239a312.png"
-    },
-    {
-      "title": "Hello，Shiki",
-      "created": "2024-08-18 08:00",
-      "link": "https://www.yoghurtlee.com/hello-shiki/",
-      "author": "园子里的日光",
-      "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
       "title": "RSSHub在Vercel上部署与信源选取",
@@ -780,7 +773,7 @@
     {
       "title": "我的 Mac 推荐",
       "created": "2024-08-16 17:42",
-      "link": "https://andersonhjb.github.io/posts/daebc472.html",
+      "link": "https://blog.bornforthis.cn/posts/daebc472.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
@@ -804,20 +797,6 @@
       "link": "https://www.chacks.top/archives/1723380497292",
       "author": "星途语梦",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
-    },
-    {
-      "title": "redis7.4安装",
-      "created": "2024-08-11 04:52",
-      "link": "https://atxrom.com/archives/25/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "Debian 设置中文",
-      "created": "2024-08-11 04:44",
-      "link": "https://atxrom.com/archives/24/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "七夕-24",
@@ -1203,20 +1182,6 @@
       "link": "https://blog.xing-ye.top/posts/7b314330/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
-    },
-    {
-      "title": "Miao-Yunzai 机器人安装教程",
-      "created": "2024-06-15 07:36",
-      "link": "https://atxrom.com/archives/12/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "handsome 主题美化记录",
-      "created": "2024-06-15 07:32",
-      "link": "https://atxrom.com/archives/11/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "【关于本站】网站的相关情况",
