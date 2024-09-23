@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 65,
-    "active_num": 51,
-    "error_num": 14,
-    "article_num": 239,
-    "last_updated_time": "2024-09-23 08:54:29"
+    "active_num": 50,
+    "error_num": 15,
+    "article_num": 234,
+    "last_updated_time": "2024-09-23 14:17:21"
   },
   "article_data": [
     {
@@ -1282,13 +1282,6 @@
       "avatar": "https://blog.sinzmise.top/img/512.png"
     },
     {
-      "title": "Genetics",
-      "created": "2024-05-12 10:50",
-      "link": "https://www.luyaoguagua.top/Med/genetics",
-      "author": "Gua’s Nest",
-      "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
       "title": "网络学习笔记",
       "created": "2024-05-09 18:34",
       "link": "https://mnchen.cn/posts/1003.html",
@@ -1338,27 +1331,6 @@
       "avatar": "https://blog.nineya.com/favicon.png"
     },
     {
-      "title": "Reverse proxy bixiv image",
-      "created": "2024-04-07 08:50",
-      "link": "https://www.luyaoguagua.top/Code/reverse-proxy-bixiv-image",
-      "author": "Gua’s Nest",
-      "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
-      "title": "Mirror site",
-      "created": "2024-04-06 11:17",
-      "link": "https://www.luyaoguagua.top/Code/mirror-site",
-      "author": "Gua’s Nest",
-      "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
-      "title": "Github download",
-      "created": "2024-04-06 11:17",
-      "link": "https://www.luyaoguagua.top/Code/github-download",
-      "author": "Gua’s Nest",
-      "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
       "title": "12700h es新all in Boom折腾记录",
       "created": "2024-04-01 04:11",
       "link": "https://my.toho.red/posts/new-12700h-home-server/",
@@ -1371,13 +1343,6 @@
       "link": "https://my.toho.red/posts/solve-electron-wayland-input-problem/",
       "author": "西行妖",
       "avatar": "https://i1.wp.com/s3.ax1x.com/2021/01/31/yEfCCR.png"
-    },
-    {
-      "title": "English",
-      "created": "2024-03-31 00:01",
-      "link": "https://www.luyaoguagua.top/Med/english",
-      "author": "Gua’s Nest",
-      "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
     },
     {
       "title": "如何在RK系开发板的linux冷门内核上编译CH340驱动",
