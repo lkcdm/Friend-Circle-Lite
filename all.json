@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 65,
-    "active_num": 51,
-    "error_num": 14,
-    "article_num": 239,
-    "last_updated_time": "2024-09-24 14:17:43"
+    "active_num": 52,
+    "error_num": 13,
+    "article_num": 244,
+    "last_updated_time": "2024-09-24 20:22:09"
   },
   "article_data": [
     {
@@ -568,6 +568,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "近况·24年08月",
+      "created": "2024-09-05 23:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "Mac关闭耳机线控，关闭键盘的媒体控制，线控启动Apple Music功能",
       "created": "2024-09-05 15:15",
       "link": "https://blog.zhheo.com/p/13e3.html",
@@ -981,6 +988,13 @@
       "avatar": "https://blog.sinzmise.top/img/512.png"
     },
     {
+      "title": "近况·24年07月",
+      "created": "2024-08-02 10:16",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2407",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "学习笔记——STL模板库之数据结构",
       "created": "2024-08-02 00:09",
       "link": "https://www.ordchaos.com/posts/8752b65a/",
@@ -1028,6 +1042,13 @@
       "link": "https://rong6.cn/archives/linux-minecraft-geyser",
       "author": "荣6的博客",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
+      "title": "站点域名即将变更公告",
+      "created": "2024-07-30 20:35",
+      "link": "https://blog.kfdzcoffee.cn/archives/domainchangenotice",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "飞跃13号房-对网瘾治疗披露与反抗",
@@ -1084,6 +1105,13 @@
       "link": "https://mnchen.cn/posts/1009.html",
       "author": "前尘小筑",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
+    },
+    {
+      "title": "近期站点重大事件",
+      "created": "2024-07-21 17:23",
+      "link": "https://blog.kfdzcoffee.cn/archives/bigevents-01",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "搭建TG文件直链机器人",
@@ -1161,6 +1189,13 @@
       "link": "https://bokebo.com/archives/1787",
       "author": "BOKEBO",
       "avatar": "https://bokebo.com/logo.png"
+    },
+    {
+      "title": "近况·24年06月末",
+      "created": "2024-07-07 21:03",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2406mo",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "2024年最新Typora1.9.5激活教程",
