@@ -4,9 +4,37 @@
     "active_num": 53,
     "error_num": 12,
     "article_num": 244,
-    "last_updated_time": "2024-09-26 14:17:49"
+    "last_updated_time": "2024-09-26 20:22:04"
   },
   "article_data": [
+    {
+      "title": "【尚硅谷】MySQL-数据库备份与恢复",
+      "created": "2024-09-26 16:58",
+      "link": "https://blog.shiguang666.eu.org/2024/09/26/e441e650956c/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "【尚硅谷】MySQL-主从复制",
+      "created": "2024-09-26 15:52",
+      "link": "https://blog.shiguang666.eu.org/2024/09/26/f7ad294f7377/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "【尚硅谷】MySQL-其他数据库日志",
+      "created": "2024-09-26 13:24",
+      "link": "https://blog.shiguang666.eu.org/2024/09/26/922071561806/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "【尚硅谷】MySQL-多版本并发控制",
+      "created": "2024-09-26 11:27",
+      "link": "https://blog.shiguang666.eu.org/2024/09/26/8aeb9df6c710/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
     {
       "title": "如何将原版不蒜子busuanzi的数据迁移到自搭建不蒜子上",
       "created": "2024-09-25 14:33",
@@ -43,13 +71,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "【尚硅谷】MySQL-MySQL事务日志",
-      "created": "2024-09-25 11:07",
-      "link": "https://blog.shiguang666.eu.org/2024/09/25/076bbddc6716/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
       "title": "为关于页面增加一个“足迹”功能",
       "created": "2024-09-25 07:52",
       "link": "https://xyzbz.cn/archives/1215/",
@@ -57,11 +78,11 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
-      "title": "【尚硅谷】MySQL-事务基础知识",
-      "created": "2024-09-24 22:16",
-      "link": "https://blog.shiguang666.eu.org/2024/09/24/5ff69d1c35a3/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+      "title": "关于使用华为浏览器浏览本站时会出现风险提示的说明",
+      "created": "2024-09-24 23:56",
+      "link": "https://blog.kfdzcoffee.cn/archives/abouthwbroswernotice",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "docker安装windows11？",
@@ -90,13 +111,6 @@
       "link": "https://luolt.cn/archives/2891.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
-    },
-    {
-      "title": "【尚硅谷】MySQL-索引优化与查询优化",
-      "created": "2024-09-24 13:36",
-      "link": "https://blog.shiguang666.eu.org/2024/09/24/9ddefc9f8faa/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "六耳猕猴冒充孙悟空",
@@ -174,13 +188,6 @@
       "link": "https://blog.bornforthis.cn/posts/5163a66e.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
-    },
-    {
-      "title": "【尚硅谷】MySQL-性能分析工具的使用",
-      "created": "2024-09-22 17:22",
-      "link": "https://blog.shiguang666.eu.org/2024/09/22/88ec74bb220c/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "自动化执行hexo魔改",
@@ -477,13 +484,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "Docker安装Napcat反向ws",
-      "created": "2024-09-14 15:17",
-      "link": "https://atxrom.com/archives/26/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
       "title": "[译] 余弦相似度是如何工作的？",
       "created": "2024-09-13 01:41",
       "link": "https://www.liuzhen932.top/posts/t/cosine-similarity",
@@ -594,6 +594,13 @@
       "link": "https://dusays.com/745/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "近况·24年08月",
+      "created": "2024-09-05 23:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "中国与世界的现代化专题（二）：货币的本质与中国的税收体系",
@@ -918,20 +925,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
-      "title": "redis7.4安装",
-      "created": "2024-08-10 20:52",
-      "link": "https://atxrom.com/archives/25/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "Debian 设置中文",
-      "created": "2024-08-10 20:44",
-      "link": "https://atxrom.com/archives/24/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
       "title": "说说：#1723256815",
       "created": "2024-08-10 18:26",
       "link": "https://www.zhxubk.cn/archives/3c78cefa.html",
@@ -1016,6 +1009,13 @@
       "avatar": "https://blog.sinzmise.top/img/512.png"
     },
     {
+      "title": "近况·24年07月",
+      "created": "2024-08-02 10:16",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2407",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "学习笔记——STL模板库之数据结构",
       "created": "2024-08-02 00:09",
       "link": "https://www.ordchaos.com/posts/8752b65a/",
@@ -1063,6 +1063,13 @@
       "link": "https://rong6.cn/archives/linux-minecraft-geyser",
       "author": "荣6的博客",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
+      "title": "站点域名即将变更公告",
+      "created": "2024-07-30 20:35",
+      "link": "https://blog.kfdzcoffee.cn/archives/domainchangenotice",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "飞跃13号房-对网瘾治疗披露与反抗",
@@ -1119,6 +1126,13 @@
       "link": "https://mnchen.cn/posts/1009.html",
       "author": "前尘小筑",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
+    },
+    {
+      "title": "近期站点重大事件",
+      "created": "2024-07-21 17:23",
+      "link": "https://blog.kfdzcoffee.cn/archives/bigevents-01",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "搭建TG文件直链机器人",
@@ -1280,20 +1294,6 @@
       "link": "https://blog.xing-ye.top/posts/7b314330/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
-    },
-    {
-      "title": "Miao-Yunzai 机器人安装教程",
-      "created": "2024-06-14 23:36",
-      "link": "https://atxrom.com/archives/12/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "handsome 主题美化记录",
-      "created": "2024-06-14 23:32",
-      "link": "https://atxrom.com/archives/11/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "【关于本站】网站的相关情况",
