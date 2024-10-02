@@ -1,25 +1,25 @@
 {
   "statistical_data": {
     "friends_num": 65,
-    "active_num": 53,
-    "error_num": 12,
-    "article_num": 246,
-    "last_updated_time": "2024-10-02 02:16:51"
+    "active_num": 54,
+    "error_num": 11,
+    "article_num": 250,
+    "last_updated_time": "2024-10-02 08:55:16"
   },
   "article_data": [
+    {
+      "title": "CF Worker部署Umami的API",
+      "created": "2024-10-02 07:45",
+      "link": "https://blog.bsgun.cn/posts/d0612c0e/",
+      "author": "梦爱吃鱼",
+      "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
     {
       "title": "AkileCloud 英国大带宽VPS测评，1核1G 500兆 仅需19.99元/月，免备案服务器，英国原生IP",
       "created": "2024-10-01 11:38",
       "link": "https://blog.zeruns.tech/archives/820.html",
       "author": "Zeruns's Blog",
       "avatar": "https://blog.zeruns.tech/tx.jpg"
-    },
-    {
-      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
-      "created": "2024-10-01 10:00",
-      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "喜迎国庆 | 近期情况总结",
@@ -48,6 +48,13 @@
       "link": "https://blog.liushen.fun/posts/b330686/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "在公告栏添加一个随机ikun",
+      "created": "2024-10-01 00:00",
+      "link": "https://mnchen.cn/posts/1010.html",
+      "author": "前尘小筑",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "我博客网站又遭受CC攻击了，记录一下",
@@ -568,6 +575,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "为博客站点提供免费 CDN",
+      "created": "2024-09-11 13:27",
+      "link": "https://www.biliwind.com/posts/provide-free-cdn-for-blog-sites.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
       "title": "鲲鹏C8 600关闭IPv6、开启UPNP等教程",
       "created": "2024-09-11 11:00",
       "link": "https://blog.goodboyboy.top/posts/2339958211.html",
@@ -575,11 +589,25 @@
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
+      "title": "从小白蜕变成建站大佬（1）寻找开源项目",
+      "created": "2024-09-11 10:10",
+      "link": "https://www.biliwind.com/posts/from-a-small-white-shed-to-a-website-builder-1-looking.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
       "title": "云，能化解我的烦恼",
       "created": "2024-09-10 11:38",
       "link": "https://hexo.dreamerhe.cn/posts/23252/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
+    },
+    {
+      "title": "全网最全干货-APISIX蓝绿发布",
+      "created": "2024-09-10 09:58",
+      "link": "https://www.biliwind.com/posts/the-most-comprehensive-and-informative-product-on-the.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
     },
     {
       "title": "IT-ABC | 给刚接触电脑的朋友们的一点实用 IT 技巧 | 信息的获取",
@@ -769,6 +797,13 @@
       "link": "https://blog.liushen.fun/posts/62e27d26/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "Docker compose五分钟部署Apisix网关+图形化管理",
+      "created": "2024-08-25 19:36",
+      "link": "https://www.biliwind.com/posts/docker-compose-five-minute-deployment-of-apisix.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
     },
     {
       "title": "服务器除虫日志",
@@ -1093,13 +1128,6 @@
       "avatar": "https://starsei.com/favicon.ico"
     },
     {
-      "title": "配置Umami到about页",
-      "created": "2024-07-25 02:11",
-      "link": "https://blog.bsgun.cn/posts/609bcdb9/",
-      "author": "梦爱吃鱼",
-      "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
       "title": "PicList：安装与配置兰空图床的指南",
       "created": "2024-07-23 15:13",
       "link": "https://www.chacks.top/archives/1721718381504",
@@ -1112,13 +1140,6 @@
       "link": "https://lin-blog.xyz/archives/storyteller",
       "author": "Lin-Blog",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
-    },
-    {
-      "title": "星尘twikoo表情包",
-      "created": "2024-07-22 00:00",
-      "link": "https://mnchen.cn/posts/1010.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "星尘twikoo表情包",
@@ -1147,6 +1168,13 @@
       "link": "https://rong6.cn/archives/successor-movie-review",
       "author": "荣6的博客",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
+      "title": "用FrankenPHP+sidekick创建一个极高性能的WordPress站点",
+      "created": "2024-07-14 20:38",
+      "link": "https://www.biliwind.com/posts/create-a-high-performance-wordpress-site-using-frankenphp.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
     },
     {
       "title": "Debian安装VoceChat",
