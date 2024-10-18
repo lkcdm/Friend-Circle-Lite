@@ -1,30 +1,30 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 53,
-    "error_num": 17,
-    "article_num": 240,
-    "last_updated_time": "2024-10-18 20:23:10"
+    "active_num": 54,
+    "error_num": 16,
+    "article_num": 245,
+    "last_updated_time": "2024-10-19 02:17:01"
   },
   "article_data": [
     {
-      "title": "Docker部署PandoraNext",
-      "created": "2024-10-18 17:39",
-      "link": "https://blog.shiguang666.eu.org/2024/10/18/d92b43d7b11c/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+      "title": "为什么我曾经、现在乃至未来都看空零一万物",
+      "created": "2024-10-19 01:58",
+      "link": "https://www.lapis.cafe/archives/Why-I-Always-Bet-Against-01-AI-Infinity",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
-      "title": "Git因文件过大导致提交失败解决方案",
-      "created": "2024-10-18 17:39",
-      "link": "https://blog.shiguang666.eu.org/2024/10/18/9508f957e10e/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+      "title": "初识BlueSky",
+      "created": "2024-10-18 22:53",
+      "link": "https://blog.goodboyboy.top/posts/313789330.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
-      "title": "Docker部署ChatBotUI",
-      "created": "2024-10-18 17:39",
-      "link": "https://blog.shiguang666.eu.org/2024/10/18/53ebbbc87204/",
+      "title": "Hexo博客自动生成AI摘要",
+      "created": "2024-10-18 17:41",
+      "link": "https://blog.shiguang666.eu.org/2024/10/18/a2cc0b63066f/",
       "author": "時光",
       "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
@@ -78,7 +78,7 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
-      "title": "# Linux root 账户及 ssh 链接问题",
+      "title": "Linux root 账户及 ssh 链接问题",
       "created": "2024-10-17 11:36",
       "link": "https://stjhub.com/archives/0fb1aed0-a6c8-489b-b95f-d1c1049e55b1",
       "author": "时空跃动",
@@ -146,6 +146,20 @@
       "link": "https://blog.goodboyboy.top/posts/1612666407.html",
       "author": "GoodBoyboy's Blog",
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+    },
+    {
+      "title": "error: src refspec main does not match any",
+      "created": "2024-10-15 14:09",
+      "link": "https://blog.shiguang666.eu.org/2024/10/15/0410596602c9/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "Failed to connect to github.com port 443 after 21042 ms: Couldn't connect to server",
+      "created": "2024-10-15 11:55",
+      "link": "https://blog.shiguang666.eu.org/2024/10/15/bdc2992e0b08/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "周末科技馆和濦溪湿地公园",
@@ -589,13 +603,6 @@
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
     },
     {
-      "title": "[转载] 医保怎样用最省钱？2023最清晰实用医保指南，适配全国，先收藏！",
-      "created": "2024-09-19 18:09",
-      "link": "https://blog.goodboyboy.top/posts/1751367411.html",
-      "author": "GoodBoyboy's Blog",
-      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
-    },
-    {
       "title": "Arch Linux + Windows 11 双系统硬盘迁移超级踩坑记",
       "created": "2024-09-18 10:02",
       "link": "https://blog.yaria.top/posts/c0z8jdo2",
@@ -659,13 +666,6 @@
       "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
-      "title": "Docker安装Napcat反向ws",
-      "created": "2024-09-14 23:17",
-      "link": "https://atxrom.com/archives/26/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
       "title": "FAQ: GoNoBot",
       "created": "2024-09-12 09:20",
       "link": "https://blog.liuzhen932.top/posts/gonobot-faq/",
@@ -673,11 +673,32 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/754514.webp"
     },
     {
+      "title": "为博客站点提供免费 CDN",
+      "created": "2024-09-11 13:27",
+      "link": "https://www.biliwind.com/posts/provide-free-cdn-for-blog-sites.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
+      "title": "从小白蜕变成建站大佬（1）寻找开源项目",
+      "created": "2024-09-11 10:10",
+      "link": "https://www.biliwind.com/posts/from-a-small-white-shed-to-a-website-builder-1-looking.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
       "title": "云，能化解我的烦恼",
       "created": "2024-09-10 11:38",
       "link": "https://hexo.dreamerhe.cn/posts/23252/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
+    },
+    {
+      "title": "全网最全干货-APISIX蓝绿发布",
+      "created": "2024-09-10 09:58",
+      "link": "https://www.biliwind.com/posts/the-most-comprehensive-and-informative-product-on-the.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
     },
     {
       "title": "IT-ABC | 给刚接触电脑的朋友们的一点实用 IT 技巧 | 信息的获取",
@@ -720,13 +741,6 @@
       "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
       "author": "咖啡豆子 coffee 的小站",
       "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
-      "title": "中国与世界的现代化专题（二）：货币的本质与中国的税收体系",
-      "created": "2024-09-05 02:47",
-      "link": "https://www.lapis.cafe/archives/zhong-guo-yu-shi-jie-de-xian-dai-hua-zhuan-ti-er-huo-bi-de-ben-zhi-yu-zhong-guo-de-shui-shou-ti-xi",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "OpenGist--自部署代码片段保存项目",
@@ -883,6 +897,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "Docker compose五分钟部署Apisix网关+图形化管理",
+      "created": "2024-08-25 19:36",
+      "link": "https://www.biliwind.com/posts/docker-compose-five-minute-deployment-of-apisix.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
       "title": "小粉又下蛋了",
       "created": "2024-08-25 07:00",
       "link": "https://ooo.gg/1673.html",
@@ -995,6 +1016,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/691632.webp"
     },
     {
+      "title": "Uptime kuma | 一个美观的监控程序",
+      "created": "2024-08-15 21:15",
+      "link": "https://www.chacks.top/archives/1723642262659",
+      "author": "星途语梦",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
+    },
+    {
       "title": "无服务器AI摘要后端——OrdChaosGPT",
       "created": "2024-08-15 01:08",
       "link": "https://www.ordchaos.com/posts/fd9dafa1/",
@@ -1009,18 +1037,11 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/08/02/616674.webp"
     },
     {
-      "title": "redis7.4安装",
-      "created": "2024-08-11 04:52",
-      "link": "https://atxrom.com/archives/25/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "Debian 设置中文",
-      "created": "2024-08-11 04:44",
-      "link": "https://atxrom.com/archives/24/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
+      "title": "为你的Windows美化",
+      "created": "2024-08-11 21:51",
+      "link": "https://www.chacks.top/archives/1723380497292",
+      "author": "星途语梦",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
     },
     {
       "title": "七夕-24",
@@ -1170,11 +1191,25 @@
       "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
     },
     {
+      "title": "为你的Obsidian配置图片自动上传图床",
+      "created": "2024-07-26 12:22",
+      "link": "https://www.chacks.top/archives/1721721495290",
+      "author": "星途语梦",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
+    },
+    {
       "title": "微信小程序构建npm详解",
       "created": "2024-07-26 00:39",
       "link": "https://starsei.com/archives/136/",
       "author": "猫不吃鱼",
       "avatar": "https://starsei.com/favicon.ico"
+    },
+    {
+      "title": "PicList：安装与配置兰空图床的指南",
+      "created": "2024-07-23 15:13",
+      "link": "https://www.chacks.top/archives/1721718381504",
+      "author": "星途语梦",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
     },
     {
       "title": "星尘twikoo表情包",
@@ -1210,6 +1245,20 @@
       "link": "https://rong6.cn/archives/successor-movie-review",
       "author": "荣6的博客",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
+      "title": "用FrankenPHP+sidekick创建一个极高性能的WordPress站点",
+      "created": "2024-07-14 20:38",
+      "link": "https://www.biliwind.com/posts/create-a-high-performance-wordpress-site-using-frankenphp.html",
+      "author": "风屿岛",
+      "avatar": "https://www.biliwind.com/favicon.ico"
+    },
+    {
+      "title": "Debian安装VoceChat",
+      "created": "2024-07-14 13:08",
+      "link": "https://www.chacks.top/archives/1720930345182",
+      "author": "星途语梦",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/01/990324.webp"
     },
     {
       "title": "2073：【例2.16 】三角形面积",
@@ -1329,20 +1378,6 @@
       "link": "https://blog.xing-ye.top/posts/7b314330/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
-    },
-    {
-      "title": "TRSS-Yunzai 机器人安装教程",
-      "created": "2024-06-15 07:36",
-      "link": "https://atxrom.com/archives/13/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "handsome 主题美化记录",
-      "created": "2024-06-15 07:32",
-      "link": "https://atxrom.com/archives/11/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "解决网站 URL 加个 index.html 后 Twikoo 评论显示问题",
