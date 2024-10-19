@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 53,
-    "error_num": 17,
-    "article_num": 245,
-    "last_updated_time": "2024-10-19 20:22:08"
+    "active_num": 54,
+    "error_num": 16,
+    "article_num": 250,
+    "last_updated_time": "2024-10-20 02:15:50"
   },
   "article_data": [
+    {
+      "title": "微博客程序的友链插件更新水文",
+      "created": "2024-10-20 04:38",
+      "link": "https://luolt.cn/archives/2924.html",
+      "author": "洛丽糖",
+      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
+    {
+      "title": "独立博客自省问卷15题",
+      "created": "2024-10-20 00:39",
+      "link": "https://physnya.top/2024/10/19/questions/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
     {
       "title": "如何编写一个摩斯电码转换工具：详解与实现",
       "created": "2024-10-19 10:41",
@@ -281,13 +295,6 @@
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
     },
     {
-      "title": "Bongo Cat Mver 一款很有趣的桌面小软件",
-      "created": "2024-10-11 20:59",
-      "link": "https://luolt.cn/archives/2919.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
-    },
-    {
       "title": "高等微积分笔记 Lesson 8",
       "created": "2024-10-11 13:52",
       "link": "https://physnya.top/2024/10/11/integral8/",
@@ -337,13 +344,6 @@
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
-      "title": "高等微积分笔记 Lesson 7",
-      "created": "2024-10-09 19:47",
-      "link": "https://physnya.top/2024/10/09/integral7/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
       "title": "咦，我的按钮呢？",
       "created": "2024-10-09 08:00",
       "link": "https://www.yoghurtlee.com/eh-where-is-my-button/",
@@ -363,6 +363,13 @@
       "link": "https://xyzbz.cn/archives/1226/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
+      "title": "又是一年冬",
+      "created": "2024-10-08 20:56",
+      "link": "https://lin-blog.xyz/archives/you-shi-yi-nian-dong",
+      "author": "Lin-Blog",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
       "title": "站点装修与国庆小记",
@@ -652,6 +659,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
     },
     {
+      "title": "我吗？一个精神病人",
+      "created": "2024-09-16 19:39",
+      "link": "https://lin-blog.xyz/archives/我吗一个精神病人",
+      "author": "Lin-Blog",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
+    },
+    {
       "title": "[译] 谁正在使用 Accept-Language 请求头？",
       "created": "2024-09-15 07:07",
       "link": "https://blog.liuzhen932.top/posts/who-uses-accept-language-header/",
@@ -769,6 +783,13 @@
       "link": "https://blog.elykia.cn/posts/13.html",
       "author": "Elykia",
       "avatar": "https://img.elykia.cn/2024/E_0.gif"
+    },
+    {
+      "title": "近况，伏熙",
+      "created": "2024-09-02 00:23",
+      "link": "https://lin-blog.xyz/archives/jin-kuang---fu-xi",
+      "author": "Lin-Blog",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
       "title": "说说：#1725178563",
@@ -1044,6 +1065,13 @@
       "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
+      "title": "七夕-24",
+      "created": "2024-08-10 23:53",
+      "link": "https://lin-blog.xyz/archives/qixifestivalin24",
+      "author": "Lin-Blog",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
+    },
+    {
       "title": "说说：#1723256815",
       "created": "2024-08-10 18:26",
       "link": "https://www.zhxubk.cn/archives/3c78cefa.html",
@@ -1077,6 +1105,13 @@
       "link": "https://zaochuanqiu.online/archives/fclqi-dong-qi-bao-mu-ji-shi-yong-jiao-cheng",
       "author": "雨滴思绪",
       "avatar": "https://uesu.cn-sy1.rains3.com/halo/gptlogo.png"
+    },
+    {
+      "title": "姐姐，好久不见",
+      "created": "2024-08-06 00:10",
+      "link": "https://lin-blog.xyz/archives/eldersisterkubetsu",
+      "author": "Lin-Blog",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
       "title": "学习笔记——分块、线段树",
