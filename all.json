@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 52,
-    "error_num": 18,
-    "article_num": 240,
-    "last_updated_time": "2024-10-21 20:24:01"
+    "active_num": 53,
+    "error_num": 17,
+    "article_num": 245,
+    "last_updated_time": "2024-10-22 02:16:47"
   },
   "article_data": [
+    {
+      "title": "SDGs公益宣传",
+      "created": "2024-10-21 22:56",
+      "link": "https://blog.kfdzcoffee.cn/archives/SDGsPWF",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
+      "title": "物理与深度学习",
+      "created": "2024-10-21 20:35",
+      "link": "https://physnya.top/2024/10/21/AI-physics/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
     {
       "title": "微博客程序内部框架更新记录",
       "created": "2024-10-21 08:23",
@@ -286,13 +300,6 @@
       "link": "https://xingji.fun/posts/10000/",
       "author": "XingJiのBlog",
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
-    },
-    {
-      "title": "流水账 Week 5",
-      "created": "2024-10-13 15:13",
-      "link": "https://physnya.top/2024/10/13/weekly-5/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "Ephemeralis-Weekly（9）：寒露清秋",
@@ -1170,13 +1177,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
-      "title": "近期站点重大事件",
-      "created": "2024-07-21 17:23",
-      "link": "https://blog.kfdzcoffee.cn/archives/bigevents-01",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
       "title": "搭建TG文件直链机器人",
       "created": "2024-07-20 17:21",
       "link": "https://rong6.cn/archives/bulid-tg-filestreambot",
@@ -1429,6 +1429,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
     },
     {
+      "title": "小狐狸ChatGPT付费Ai创作系统V2.7.2独立版+WEB端+H5端+小程序端（支持最新AI对话）",
+      "created": "2024-03-04 10:22",
+      "link": "https://stvue.com/archives/147.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "第三方网易音乐播放器安利",
       "created": "2024-02-11 20:37",
       "link": "https://kamiasuka.top/archives/870",
@@ -1513,11 +1520,25 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
+      "title": "一条通知 - 优秀的通知功能增强和管理的工具（Android）",
+      "created": "2023-12-16 09:46",
+      "link": "https://stvue.com/archives/139.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "Argon主题美化",
       "created": "2023-12-15 13:23",
       "link": "https://kamiasuka.top/archives/726",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
+    },
+    {
+      "title": "江小二工具箱 - 免费抖音作品提取、违禁词检测、批量下载、去水印工具",
+      "created": "2023-12-13 01:56",
+      "link": "https://stvue.com/archives/132.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "博客主题推荐",
@@ -1527,11 +1548,25 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
+      "title": "ZeVideo - Typecho视频主题重构版（支持采集功能）",
+      "created": "2023-12-10 10:37",
+      "link": "https://stvue.com/archives/124.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "个人博客网站搭建",
       "created": "2023-12-09 21:06",
       "link": "https://kamiasuka.top/archives/631",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
+    },
+    {
+      "title": "湖州之旅 · 太湖边的一座古城",
+      "created": "2023-12-09 07:29",
+      "link": "https://stvue.com/archives/80.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "甲流中",
