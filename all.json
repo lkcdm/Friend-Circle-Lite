@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 55,
-    "error_num": 15,
-    "article_num": 246,
-    "last_updated_time": "2024-10-25 20:22:09"
+    "active_num": 54,
+    "error_num": 16,
+    "article_num": 245,
+    "last_updated_time": "2024-10-26 02:15:58"
   },
   "article_data": [
     {
@@ -20,6 +20,13 @@
       "link": "https://luolt.cn/archives/2927.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
+    {
+      "title": "【Hexo】Umami-Api搭建全攻略",
+      "created": "2024-10-25 20:28",
+      "link": "https://blog.shiguang666.eu.org/2024/10/25/51ed83c269e7/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "说说：#1729829535",
@@ -90,6 +97,13 @@
       "link": "https://luolt.cn/archives/2926.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
+    {
+      "title": "随机图片及视频的代码分享",
+      "created": "2024-10-24 00:00",
+      "link": "https://dusays.com/761/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "【Hexo】给博客添加宠物挂件",
@@ -209,13 +223,6 @@
       "link": "https://physnya.top/2024/10/19/questions/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
-      "title": "【Hexo】 安知鱼主题快速安装指南",
-      "created": "2024-10-19 13:26",
-      "link": "https://blog.shiguang666.eu.org/2024/10/19/60bad7ccf4e8/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "如何编写一个摩斯电码转换工具：详解与实现",
@@ -442,13 +449,6 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
-      "title": "Linux 安全 Auditd 审计工具使用说明",
-      "created": "2024-10-09 00:00",
-      "link": "https://dusays.com/756/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
       "title": "夜游神州鸟园",
       "created": "2024-10-08 21:38",
       "link": "https://xyzbz.cn/archives/1226/",
@@ -545,13 +545,6 @@
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
-      "created": "2024-10-01 10:00",
-      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "2024-09小记",
@@ -1723,7 +1716,7 @@
       "avatar": "https://blog.zeruns.tech/tx.jpg"
     },
     {
-      "title": "高性价比 和 便宜的 VPS/云服务器 推荐 2024/9/20更新",
+      "title": "高性价比 和 便宜的 VPS/云服务器 推荐 2024/10/25更新",
       "created": "2020-03-30 01:59",
       "link": "https://blog.zeruns.tech/archives/383.html",
       "author": "Zeruns's Blog",
