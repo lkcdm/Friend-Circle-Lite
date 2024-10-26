@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 54,
-    "error_num": 16,
-    "article_num": 245,
-    "last_updated_time": "2024-10-26 08:53:33"
+    "active_num": 55,
+    "error_num": 15,
+    "article_num": 247,
+    "last_updated_time": "2024-10-26 14:15:30"
   },
   "article_data": [
+    {
+      "title": "「雷池 WAF」页面文件混淆、人机验证、身份验证、主从节点数据同步——你的下一个 WAF",
+      "created": "2024-10-26 13:17",
+      "link": "https://hotaruahh.top/archives/safeline-waf/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
+    },
     {
       "title": "雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机",
       "created": "2024-10-26 02:45",
@@ -545,6 +552,13 @@
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
+      "created": "2024-10-01 10:00",
+      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "2024-09小记",
