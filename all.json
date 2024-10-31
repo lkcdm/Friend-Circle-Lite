@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 54,
-    "error_num": 16,
-    "article_num": 245,
-    "last_updated_time": "2024-10-31 02:16:46"
+    "active_num": 55,
+    "error_num": 15,
+    "article_num": 250,
+    "last_updated_time": "2024-10-31 08:55:51"
   },
   "article_data": [
     {
@@ -575,6 +575,13 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "抄袭剽窃，一场无声的代码之争",
+      "created": "2024-10-04 23:40",
+      "link": "https://rong6.cn/archives/plagiarism-a-code-war",
+      "author": "荣6的博客",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
       "title": "Regional Anatomy",
       "created": "2024-10-04 19:20",
       "link": "https://www.luyaoguagua.top/Gua/regional-anatomy",
@@ -904,6 +911,13 @@
       "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
+      "title": "Alist+Navidrome搭建自己的音乐库，从此听歌不求人！",
+      "created": "2024-08-31 21:57",
+      "link": "https://rong6.cn/archives/alist-and-navidromeda-create-music-library",
+      "author": "荣6的博客",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
       "title": "2024-08小记",
       "created": "2024-08-31 19:33",
       "link": "https://blog.sinzmise.top/posts/15688/",
@@ -1163,6 +1177,13 @@
       "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
+      "title": "Linux搭建Minecraft互通服教程",
+      "created": "2024-07-30 22:54",
+      "link": "https://rong6.cn/archives/linux-minecraft-geyser",
+      "author": "荣6的博客",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
       "title": "站点域名即将变更公告",
       "created": "2024-07-30 20:35",
       "link": "https://blog.kfdzcoffee.cn/archives/domainchangenotice",
@@ -1212,11 +1233,25 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
+      "title": "搭建TG文件直链机器人",
+      "created": "2024-07-20 17:21",
+      "link": "https://rong6.cn/archives/bulid-tg-filestreambot",
+      "author": "荣6的博客",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
+    },
+    {
       "title": "类原生安卓网络和时间修复",
       "created": "2024-07-17 17:26",
       "link": "https://blog.xiowo.net/posts/2c81e055/",
       "author": "Mo的记事簿",
       "avatar": "https://blog.xiowo.net/img/avatar.png"
+    },
+    {
+      "title": "《抓娃娃》电影观后感",
+      "created": "2024-07-17 11:38",
+      "link": "https://rong6.cn/archives/successor-movie-review",
+      "author": "荣6的博客",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/222793.webp"
     },
     {
       "title": "Debian安装VoceChat",
