@@ -4,9 +4,16 @@
     "active_num": 55,
     "error_num": 15,
     "article_num": 250,
-    "last_updated_time": "2024-10-31 08:55:51"
+    "last_updated_time": "2024-10-31 14:16:53"
   },
   "article_data": [
+    {
+      "title": "Next Chat插件调用SiliconFlow的SD模型进行绘画",
+      "created": "2024-10-31 13:36",
+      "link": "https://zaochuanqiu.online/archives/7740437c-52c7-4c31-9398-fa7c5900719e",
+      "author": "雨滴思绪",
+      "avatar": "https://uesu.cn-sy1.rains3.com/halo/gptlogo.png"
+    },
     {
       "title": "博主家的鸭子被狗一次性咬了八只",
       "created": "2024-10-31 00:33",
@@ -1000,13 +1007,6 @@
       "link": "https://blog.sloray.com/archives/rowiki-Ferram-On-Ascent-Profile-and-TWR",
       "author": "静线数据库",
       "avatar": "https://i1.wp.com/blog.sloray.com/usr/uploads/mainavatar.webp"
-    },
-    {
-      "title": "一款本地AI聊天工具 Bot Gem 原AMA",
-      "created": "2024-08-23 18:49",
-      "link": "https://zaochuanqiu.online/archives/yi-kuan-ben-di-ailiao-tian-gong-ju-bot-gem-yuan-ama",
-      "author": "雨滴思绪",
-      "avatar": "https://uesu.cn-sy1.rains3.com/halo/gptlogo.png"
     },
     {
       "title": "说说：#1724289239",
