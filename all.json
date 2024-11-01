@@ -1,16 +1,23 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 56,
-    "error_num": 14,
-    "article_num": 253,
-    "last_updated_time": "2024-11-01 14:18:04"
+    "active_num": 54,
+    "error_num": 16,
+    "article_num": 245,
+    "last_updated_time": "2024-11-01 20:22:28"
   },
   "article_data": [
     {
+      "title": "高等微积分笔记 Lesson 14",
+      "created": "2024-11-01 15:35",
+      "link": "https://physnya.top/2024/11/01/integral14/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
       "title": "DML数据操作",
       "created": "2024-11-01 13:26",
-      "link": "http://zxwlove.xyz/posts/hive04.html",
+      "link": "http://zxwlove.xyz/posts/hive05.html",
       "author": "浅小兮の梦",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
@@ -27,13 +34,6 @@
       "link": "https://blog.zhheo.com/p/8088.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "『Navidrome』x『音流』诗兴礼乐",
-      "created": "2024-10-31 21:17",
-      "link": "https://hotaruahh.top/archives/navidrome-yinliu/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "Next Chat插件调用SiliconFlow的SD模型进行绘画",
@@ -211,13 +211,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "「雷池 WAF」QPS 测试、页面文件混淆、人机验证、身份验证——你的下一个 WAF",
-      "created": "2024-10-26 13:17",
-      "link": "https://hotaruahh.top/archives/safeline-waf/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
-    },
-    {
       "title": "雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机",
       "created": "2024-10-26 02:45",
       "link": "https://blog.zeruns.tech/archives/827.html",
@@ -370,13 +363,6 @@
       "link": "https://blog.kfdzcoffee.cn/archives/SDGsPWF",
       "author": "咖啡豆子 coffee 的小站",
       "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
-      "title": "物理与深度学习",
-      "created": "2024-10-21 20:35",
-      "link": "https://physnya.top/2024/10/21/AI-physics/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "鱼塘朋友圈部署全攻略",
@@ -671,13 +657,6 @@
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
-      "created": "2024-10-01 10:00",
-      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "2024-09小记",
@@ -1485,13 +1464,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
     },
     {
-      "title": "小狐狸ChatGPT付费Ai创作系统V2.7.2独立版+WEB端+H5端+小程序端（支持最新AI对话）",
-      "created": "2024-03-04 10:22",
-      "link": "https://stvue.com/archives/147.html",
-      "author": "芸熙の小屋",
-      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
-    },
-    {
       "title": "第三方网易音乐播放器安利",
       "created": "2024-02-11 20:37",
       "link": "https://kamiasuka.top/archives/870",
@@ -1576,25 +1548,11 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
-      "title": "一条通知 - 优秀的通知功能增强和管理的工具（Android）",
-      "created": "2023-12-16 09:46",
-      "link": "https://stvue.com/archives/139.html",
-      "author": "芸熙の小屋",
-      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
-    },
-    {
       "title": "Argon主题美化",
       "created": "2023-12-15 13:23",
       "link": "https://kamiasuka.top/archives/726",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
-      "title": "江小二工具箱 - 免费抖音作品提取、违禁词检测、批量下载、去水印工具",
-      "created": "2023-12-13 01:56",
-      "link": "https://stvue.com/archives/132.html",
-      "author": "芸熙の小屋",
-      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "博客主题推荐",
@@ -1604,25 +1562,11 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
-      "title": "ZeVideo - Typecho视频主题重构版（支持采集功能）",
-      "created": "2023-12-10 10:37",
-      "link": "https://stvue.com/archives/124.html",
-      "author": "芸熙の小屋",
-      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
-    },
-    {
       "title": "个人博客网站搭建",
       "created": "2023-12-09 21:06",
       "link": "https://kamiasuka.top/archives/631",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
-      "title": "湖州之旅 · 太湖边的一座古城",
-      "created": "2023-12-09 07:29",
-      "link": "https://stvue.com/archives/80.html",
-      "author": "芸熙の小屋",
-      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "甲流中",
