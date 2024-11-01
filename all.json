@@ -1,12 +1,40 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 55,
-    "error_num": 15,
-    "article_num": 250,
-    "last_updated_time": "2024-11-01 08:59:36"
+    "active_num": 56,
+    "error_num": 14,
+    "article_num": 253,
+    "last_updated_time": "2024-11-01 14:18:04"
   },
   "article_data": [
+    {
+      "title": "DML数据操作",
+      "created": "2024-11-01 13:26",
+      "link": "http://zxwlove.xyz/posts/hive04.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
+      "title": "ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？",
+      "created": "2024-11-01 10:52",
+      "link": "https://blog.zhheo.com/p/8088.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "ChatGPT对话搜索网络功能上手：能代替搜索引擎吗？",
+      "created": "2024-11-01 10:52",
+      "link": "https://blog.zhheo.com/p/8088.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "『Navidrome』x『音流』诗兴礼乐",
+      "created": "2024-10-31 21:17",
+      "link": "https://hotaruahh.top/archives/navidrome-yinliu/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
+    },
     {
       "title": "Next Chat插件调用SiliconFlow的SD模型进行绘画",
       "created": "2024-10-31 13:36",
@@ -181,6 +209,13 @@
       "link": "https://dusays.com/762/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "「雷池 WAF」QPS 测试、页面文件混淆、人机验证、身份验证——你的下一个 WAF",
+      "created": "2024-10-26 13:17",
+      "link": "https://hotaruahh.top/archives/safeline-waf/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机",
@@ -414,20 +449,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/754514.webp"
     },
     {
-      "title": "Mac使用自动操作快速给应用绕过Apple签名办法，使用学习版软件必备",
-      "created": "2024-10-18 11:03",
-      "link": "https://blog.zhheo.com/p/c737.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "Mac使用自动操作快速给应用绕过Apple签名办法，使用学习版软件必备",
-      "created": "2024-10-18 11:03",
-      "link": "https://blog.zhheo.com/p/c737.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
       "title": "新NAS和飞牛OS体验",
       "created": "2024-10-18 07:40",
       "link": "https://xyzbz.cn/archives/1235/",
@@ -650,6 +671,13 @@
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
+      "created": "2024-10-01 10:00",
+      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "2024-09小记",
@@ -1343,13 +1371,6 @@
       "link": "https://blog.xing-ye.top/posts/6cb87527/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
-    },
-    {
-      "title": "Hexo文章加密测试",
-      "created": "2024-06-29 18:54",
-      "link": "http://zxwlove.xyz/posts/e7958949.html",
-      "author": "浅小兮の梦",
-      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
       "title": "个人博客图床存储实践方案",
