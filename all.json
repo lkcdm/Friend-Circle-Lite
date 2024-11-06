@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 51,
-    "error_num": 19,
-    "article_num": 230,
-    "last_updated_time": "2024-11-06 20:23:30"
+    "active_num": 53,
+    "error_num": 17,
+    "article_num": 238,
+    "last_updated_time": "2024-11-07 02:16:58"
   },
   "article_data": [
+    {
+      "title": "不再依赖平台：如何打造自己专属的博客网站？",
+      "created": "2024-11-06 21:38",
+      "link": "https://www.lapis.cafe/archives/build-your-own-blog",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
     {
       "title": "洪绘畅联发布！一个插件搞定内外网切换，根据环境自动切换最佳Url或者IP地址",
       "created": "2024-11-06 16:59",
@@ -69,6 +76,13 @@
       "link": "https://blog.zhheo.com/p/2650.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Feynman 物理学讲义 - Vol.III 札记（期中考试前）",
+      "created": "2024-11-04 18:16",
+      "link": "https://physnya.top/2024/11/04/feynman-3-mid-term/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "Z016-自在极意·孙悟空壁纸丨电脑壁纸丨iPad壁纸丨手机壁纸丨头像",
@@ -204,6 +218,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "『Navidrome』x『音流』诗兴礼乐",
+      "created": "2024-10-31 21:17",
+      "link": "https://hotaruahh.top/archives/navidrome-yinliu/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
+    },
+    {
       "title": "Next Chat插件调用SiliconFlow的SD模型进行绘画",
       "created": "2024-10-31 13:36",
       "link": "https://zaochuanqiu.online/archives/7740437c-52c7-4c31-9398-fa7c5900719e",
@@ -302,13 +323,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "流水账 Week 7",
-      "created": "2024-10-27 23:48",
-      "link": "https://physnya.top/2024/10/27/weekly-7/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
       "title": "知乎图片去水印下载的方法",
       "created": "2024-10-27 23:22",
       "link": "https://blog.elykia.cn/posts/17.html",
@@ -349,6 +363,13 @@
       "link": "https://dusays.com/762/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "「雷池 WAF」QPS 测试、页面文件混淆、人机验证、身份验证——你的下一个 WAF",
+      "created": "2024-10-26 13:17",
+      "link": "https://hotaruahh.top/archives/safeline-waf/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机",
@@ -708,6 +729,13 @@
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
     },
     {
+      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
+      "created": "2024-10-01 10:00",
+      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
+      "author": "蛍木タルのBlog",
+      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
+    },
+    {
       "title": "2024-09小记",
       "created": "2024-10-01 04:29",
       "link": "https://blog.sinzmise.top/posts/64856/",
@@ -832,13 +860,6 @@
       "link": "https://blog.linux-qitong.top/posts/305bae84/",
       "author": "青稚の空间",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
-    },
-    {
-      "title": "上市公司财报分析思路",
-      "created": "2024-09-15 01:53",
-      "link": "https://www.lapis.cafe/archives/shang-shi-gong-si-cai-bao-fen-xi-si-lu",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "Docker安装Napcat反向ws",
@@ -1261,6 +1282,13 @@
       "avatar": "https://cdn.jitsu.top/img/blog/blog.jpeg"
     },
     {
+      "title": "寻找王先生",
+      "created": "2024-07-08 14:45",
+      "link": "https://bokebo.com/archives/1787",
+      "author": "BOKEBO",
+      "avatar": "https://bokebo.com/logo.png"
+    },
+    {
       "title": "一次比较离谱的电脑维修经历",
       "created": "2024-07-06 20:28",
       "link": "https://lonelyenderman.top/archives/1095",
@@ -1345,6 +1373,13 @@
       "avatar": "https://starsei.com/favicon.ico"
     },
     {
+      "title": "未来的一些计划",
+      "created": "2024-04-26 21:54",
+      "link": "https://bokebo.com/archives/1577",
+      "author": "BOKEBO",
+      "avatar": "https://bokebo.com/logo.png"
+    },
+    {
       "title": "现实主义大修 Wiki 翻译版 | 配置 Waterfall 尾焰模组",
       "created": "2024-04-21 21:54",
       "link": "https://blog.sloray.com/archives/Configuring-Waterfall-Plumes",
@@ -1422,6 +1457,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
     },
     {
+      "title": "说说我对于朋友圈的看法",
+      "created": "2024-01-15 09:05",
+      "link": "https://bokebo.com/archives/126",
+      "author": "BOKEBO",
+      "avatar": "https://bokebo.com/logo.png"
+    },
+    {
       "title": "2023年度总结",
       "created": "2024-01-09 18:28",
       "link": "https://my.toho.red/posts/2023summary/",
@@ -1434,6 +1476,13 @@
       "link": "https://blog.linux-qitong.top/posts/da60ea1f/",
       "author": "青稚の空间",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
+    },
+    {
+      "title": "2023年终总结",
+      "created": "2023-12-29 20:08",
+      "link": "https://bokebo.com/archives/1373",
+      "author": "BOKEBO",
+      "avatar": "https://bokebo.com/logo.png"
     },
     {
       "title": "新年倒计时改良&随便说说",
@@ -1469,6 +1518,13 @@
       "link": "https://kamiasuka.top/archives/631",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
+    },
+    {
+      "title": "甲流中",
+      "created": "2023-11-30 18:40",
+      "link": "https://bokebo.com/archives/1345",
+      "author": "BOKEBO",
+      "avatar": "https://bokebo.com/logo.png"
     },
     {
       "title": "幽门螺旋杆菌的治疗",
