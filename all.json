@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 53,
-    "error_num": 17,
-    "article_num": 238,
-    "last_updated_time": "2024-11-08 14:18:05"
+    "active_num": 52,
+    "error_num": 18,
+    "article_num": 235,
+    "last_updated_time": "2024-11-08 20:23:22"
   },
   "article_data": [
+    {
+      "title": "Dart基础类型变量定义",
+      "created": "2024-11-09 02:23",
+      "link": "https://luolt.cn/archives/2931.html",
+      "author": "洛丽糖",
+      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
     {
       "title": "高等微积分笔记 Lesson 16",
       "created": "2024-11-08 13:27",
@@ -246,13 +253,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "『Navidrome』x『音流』诗兴礼乐",
-      "created": "2024-10-31 21:17",
-      "link": "https://hotaruahh.top/archives/navidrome-yinliu/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
-    },
-    {
       "title": "Next Chat插件调用SiliconFlow的SD模型进行绘画",
       "created": "2024-10-31 13:36",
       "link": "https://zaochuanqiu.online/archives/7740437c-52c7-4c31-9398-fa7c5900719e",
@@ -386,13 +386,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "「雷池 WAF」QPS 测试、页面文件混淆、人机验证、身份验证——你的下一个 WAF",
-      "created": "2024-10-26 13:17",
-      "link": "https://hotaruahh.top/archives/safeline-waf/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
-    },
-    {
       "title": "雨云 宁波E5-2650v4独服测评，48核64G 300兆 仅需588元/月，裸金属物理机",
       "created": "2024-10-26 02:45",
       "link": "https://blog.zeruns.tech/archives/827.html",
@@ -468,13 +461,6 @@
       "link": "https://blog.zeruns.tech/archives/825.html",
       "author": "Zeruns's Blog",
       "avatar": "https://blog.zeruns.tech/tx.jpg"
-    },
-    {
-      "title": "微博客程序支持主题自定义字段了",
-      "created": "2024-10-24 00:17",
-      "link": "https://luolt.cn/archives/2926.html",
-      "author": "洛丽糖",
-      "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
       "title": "随机图片及视频的代码分享",
@@ -741,13 +727,6 @@
       "link": "https://blog.bsgun.cn/posts/d0612c0e/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "使用Foobar2000内嵌LRC歌词、回放增益——野生音乐爱好者必备技能",
-      "created": "2024-10-01 10:00",
-      "link": "https://hotaruahh.top/archives/foobar2000-lrc-replaygain/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "2024-09小记",
