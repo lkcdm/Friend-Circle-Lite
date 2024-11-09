@@ -4,9 +4,16 @@
     "active_num": 51,
     "error_num": 19,
     "article_num": 230,
-    "last_updated_time": "2024-11-09 08:53:57"
+    "last_updated_time": "2024-11-09 14:16:00"
   },
   "article_data": [
+    {
+      "title": "follow 所有权验证消息",
+      "created": "2024-11-09 11:37",
+      "link": "http://blog.awaae001.top/posts/8920.html",
+      "author": "呓语梦轩",
+      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
+    },
     {
       "title": "Dart基础类型变量定义",
       "created": "2024-11-09 02:23",
@@ -27,6 +34,13 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "「2024-2025」兰州财经大学Python期中试卷",
+      "created": "2024-11-07 18:31",
+      "link": "https://blog.bornforthis.cn/posts/1efa71b7.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "HCIA-821模拟卷",
@@ -211,6 +225,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "Python实现自动截图，逃脱在线监考系统",
+      "created": "2024-11-01 21:04",
+      "link": "https://blog.bornforthis.cn/posts/df336835.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
       "title": "给主题添加来访者卡片",
       "created": "2024-11-01 18:10",
       "link": "https://blog.bsgun.cn/posts/ef58a648/",
@@ -253,6 +274,13 @@
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
+      "title": "静态站点悖论「The Static Site Paradox」",
+      "created": "2024-10-30 20:40",
+      "link": "https://blog.bornforthis.cn/posts/c36f2c3.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
       "title": "Cherry Studio AI 桌面客户端分享",
       "created": "2024-10-30 19:03",
       "link": "https://zaochuanqiu.online/archives/380ae51b-98d2-403d-b2c7-0ef80b1ed1ae",
@@ -272,13 +300,6 @@
       "link": "https://dusays.com/763/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
-      "title": "时光漫谈",
-      "created": "2024-10-29 23:10",
-      "link": "https://blog.yaria.top/posts/d37baea9",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
       "title": "纯 CSS 实现自定义浏览器滚动条",
@@ -554,6 +575,13 @@
       "avatar": "https://cdn.stjhub.com/blog/avatar.jpg"
     },
     {
+      "title": "待产包以及大件准备清单",
+      "created": "2024-10-15 22:18",
+      "link": "https://blog.bornforthis.cn/posts/4986156e.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
       "title": "独立博客自省问卷15题",
       "created": "2024-10-15 18:21",
       "link": "https://xyzbz.cn/archives/1233/",
@@ -580,6 +608,13 @@
       "link": "https://xyzbz.cn/archives/1231/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
+      "title": "饺子取名待选",
+      "created": "2024-10-14 22:48",
+      "link": "https://blog.bornforthis.cn/posts/8ad6fc23.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "【JavaSE基础】变量",
@@ -671,13 +706,6 @@
       "link": "https://blog.goodboyboy.top/posts/3975943485.html",
       "author": "GoodBoyboy's Blog",
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
-    },
-    {
-      "title": "北京欢迎您！",
-      "created": "2024-10-02 13:28",
-      "link": "https://blog.yaria.top/posts/5ac2b9d6",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
       "title": "Pharmacology",
@@ -785,13 +813,6 @@
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
     },
     {
-      "title": "Arch Linux + Windows 11 双系统硬盘迁移超级踩坑记",
-      "created": "2024-09-18 10:02",
-      "link": "https://blog.yaria.top/posts/c0z8jdo2",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
       "title": "迄今所有人生都大写着失败，但不妨碍我继续向前",
       "created": "2024-09-18 08:06",
       "link": "https://blog.liushen.fun/posts/95c77d9e/",
@@ -855,13 +876,6 @@
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
     },
     {
-      "title": "今日无事，但回首往事",
-      "created": "2024-09-06 11:04",
-      "link": "https://blog.yaria.top/posts/7c13269c",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
       "title": "近况·24年08月",
       "created": "2024-09-05 23:22",
       "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
@@ -881,13 +895,6 @@
       "link": "https://blog.elykia.cn/posts/14.html",
       "author": "Elykia",
       "avatar": "https://img.elykia.cn/2024/E_0.gif"
-    },
-    {
-      "title": "新篇章：Next.js迁移小记",
-      "created": "2024-09-03 13:09",
-      "link": "https://blog.yaria.top/posts/dka7xhko",
-      "author": "Ariasakaの小窝",
-      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
       "title": "站长15岁啦~",
@@ -1119,13 +1126,6 @@
       "link": "https://blog.leonus.cn/2024/alive.html",
       "author": "Leonus",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "一枝红信出墙来-steam假激活入库",
-      "created": "2024-07-31 14:49",
-      "link": "http://blog.awaae001.top/posts/38498.html",
-      "author": "呓语梦轩",
-      "avatar": "https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg"
     },
     {
       "title": "Linux搭建Minecraft互通服教程",
