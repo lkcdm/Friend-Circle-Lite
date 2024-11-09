@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 52,
-    "error_num": 18,
-    "article_num": 235,
-    "last_updated_time": "2024-11-09 02:16:45"
+    "active_num": 51,
+    "error_num": 19,
+    "article_num": 230,
+    "last_updated_time": "2024-11-09 08:53:57"
   },
   "article_data": [
     {
@@ -27,13 +27,6 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "「2024-2025」兰州财经大学Python期中试卷",
-      "created": "2024-11-07 18:31",
-      "link": "https://blog.bornforthis.cn/posts/1efa71b7.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "HCIA-821模拟卷",
@@ -218,13 +211,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "Python实现自动截图，逃脱在线监考系统",
-      "created": "2024-11-01 21:04",
-      "link": "https://blog.bornforthis.cn/posts/df336835.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
-    },
-    {
       "title": "给主题添加来访者卡片",
       "created": "2024-11-01 18:10",
       "link": "https://blog.bsgun.cn/posts/ef58a648/",
@@ -265,13 +251,6 @@
       "link": "https://luolt.cn/archives/2929.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
-    },
-    {
-      "title": "静态站点悖论「The Static Site Paradox」",
-      "created": "2024-10-30 20:40",
-      "link": "https://blog.bornforthis.cn/posts/c36f2c3.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "Cherry Studio AI 桌面客户端分享",
@@ -575,13 +554,6 @@
       "avatar": "https://cdn.stjhub.com/blog/avatar.jpg"
     },
     {
-      "title": "待产包以及大件准备清单",
-      "created": "2024-10-15 22:18",
-      "link": "https://blog.bornforthis.cn/posts/4986156e.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
-    },
-    {
       "title": "独立博客自省问卷15题",
       "created": "2024-10-15 18:21",
       "link": "https://xyzbz.cn/archives/1233/",
@@ -608,13 +580,6 @@
       "link": "https://xyzbz.cn/archives/1231/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
-      "title": "饺子取名待选",
-      "created": "2024-10-14 22:48",
-      "link": "https://blog.bornforthis.cn/posts/8ad6fc23.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "【JavaSE基础】变量",
