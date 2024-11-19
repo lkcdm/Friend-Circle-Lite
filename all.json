@@ -4,9 +4,16 @@
     "active_num": 48,
     "error_num": 22,
     "article_num": 215,
-    "last_updated_time": "2024-11-19 20:24:10"
+    "last_updated_time": "2024-11-20 02:17:20"
   },
   "article_data": [
+    {
+      "title": "从最近的恶性事件看类《看门狗》中CtOS犯罪评估系统的可能性",
+      "created": "2024-11-19 22:58",
+      "link": "https://www.lapis.cafe/archives/ctos-crime-assessment",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
     {
       "title": "说说：#1731990659",
       "created": "2024-11-19 20:30",
@@ -769,13 +776,6 @@
       "link": "https://blog.sinzmise.top/posts/64856/",
       "author": "汐塔魔法屋",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/10/07/028395.webp"
-    },
-    {
-      "title": "从《学园孤岛》看解离型身份障碍",
-      "created": "2024-10-01 02:05",
-      "link": "https://www.lapis.cafe/archives/cong-xue-yuan-gu-dao-kan-jie-chi-xing-shen-fen-zhang-ai",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "Chsrc--全功能一键换源工具",
