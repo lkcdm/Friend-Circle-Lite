@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 48,
-    "error_num": 22,
-    "article_num": 215,
-    "last_updated_time": "2024-11-20 20:24:20"
+    "active_num": 49,
+    "error_num": 21,
+    "article_num": 220,
+    "last_updated_time": "2024-11-21 02:17:38"
   },
   "article_data": [
+    {
+      "title": "如何在Linux中更新Oh My Zsh",
+      "created": "2024-11-21 07:07",
+      "link": "https://atxrom.com/archives/37/",
+      "author": "小熊熊",
+      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
+    },
     {
       "title": "Feynman 物理学讲义 - Vol.III 札记 7",
       "created": "2024-11-20 19:08",
@@ -463,6 +470,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "时光漫谈",
+      "created": "2024-10-29 23:10",
+      "link": "https://blog.yaria.top/posts/d37baea9",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
       "title": "纯 CSS 实现自定义浏览器滚动条",
       "created": "2024-10-29 10:41",
       "link": "https://blog.liuzhen932.top/posts/customizing-scrollbars/",
@@ -757,6 +771,13 @@
       "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
+      "title": "北京欢迎您！",
+      "created": "2024-10-02 13:28",
+      "link": "https://blog.yaria.top/posts/5ac2b9d6",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
       "title": "Pharmacology",
       "created": "2024-10-02 12:52",
       "link": "https://www.luyaoguagua.top/Med/pharmacology",
@@ -827,6 +848,13 @@
       "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
+      "title": "Arch Linux + Windows 11 双系统硬盘迁移超级踩坑记",
+      "created": "2024-09-18 10:02",
+      "link": "https://blog.yaria.top/posts/c0z8jdo2",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
       "title": "迄今所有人生都大写着失败，但不妨碍我继续向前",
       "created": "2024-09-18 08:06",
       "link": "https://blog.liushen.fun/posts/95c77d9e/",
@@ -883,6 +911,13 @@
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
     },
     {
+      "title": "今日无事，但回首往事",
+      "created": "2024-09-06 11:04",
+      "link": "https://blog.yaria.top/posts/7c13269c",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
       "title": "近况·24年08月",
       "created": "2024-09-05 23:22",
       "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
@@ -895,6 +930,13 @@
       "link": "https://blog.liushen.fun/posts/1ab3d6a1/",
       "author": "清羽飞扬",
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
+    },
+    {
+      "title": "新篇章：Next.js迁移小记",
+      "created": "2024-09-03 13:09",
+      "link": "https://blog.yaria.top/posts/dka7xhko",
+      "author": "Ariasakaの小窝",
+      "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
       "title": "站长15岁啦~",
@@ -1047,13 +1089,6 @@
       "title": "redis7.4安装",
       "created": "2024-08-11 04:52",
       "link": "https://atxrom.com/archives/25/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "Debian 设置中文",
-      "created": "2024-08-11 04:44",
-      "link": "https://atxrom.com/archives/24/",
       "author": "小熊熊",
       "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
