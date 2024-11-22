@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 47,
-    "error_num": 23,
-    "article_num": 210,
-    "last_updated_time": "2024-11-22 08:59:31"
+    "active_num": 48,
+    "error_num": 22,
+    "article_num": 215,
+    "last_updated_time": "2024-11-22 14:18:52"
   },
   "article_data": [
+    {
+      "title": "高等微积分笔记 Lesson 20",
+      "created": "2024-11-22 13:28",
+      "link": "https://physnya.top/2024/11/22/integral20/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "给你的网站添加悦说页面",
+      "created": "2024-11-21 23:16",
+      "link": "https://blog.bornforthis.cn/posts/99b5e76c.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
     {
       "title": "如何在Linux中更新Oh My Zsh",
       "created": "2024-11-21 07:07",
@@ -74,13 +88,6 @@
       "title": "流水账 Week 10",
       "created": "2024-11-18 00:23",
       "link": "https://physnya.top/2024/11/17/weekly-10/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
-      "title": "讲座 - Web 基础",
-      "created": "2024-11-17 14:58",
-      "link": "https://physnya.top/2024/11/17/learn-web/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
@@ -274,6 +281,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "「2024-2025」兰州财经大学Python期中试卷",
+      "created": "2024-11-07 18:31",
+      "link": "https://blog.bornforthis.cn/posts/1efa71b7.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
       "title": "Hexo教程(一) 博客更新指南",
       "created": "2024-11-06 21:47",
       "link": "https://blog.elykia.cn/posts/18.html",
@@ -393,6 +407,13 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
+      "title": "Python实现自动截图，逃脱在线监考系统",
+      "created": "2024-11-01 21:04",
+      "link": "https://blog.bornforthis.cn/posts/df336835.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
       "title": "给主题添加来访者卡片",
       "created": "2024-11-01 18:10",
       "link": "https://blog.bsgun.cn/posts/ef58a648/",
@@ -405,6 +426,13 @@
       "link": "https://blog.xing-ye.top/posts/9cc0e153/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
+    },
+    {
+      "title": "静态站点悖论「The Static Site Paradox」",
+      "created": "2024-10-30 20:40",
+      "link": "https://blog.bornforthis.cn/posts/c36f2c3.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "【面试题】Git篇",
@@ -608,6 +636,13 @@
       "link": "https://stjhub.com/archives/0fb1aed0-a6c8-489b-b95f-d1c1049e55b1",
       "author": "时空跃动",
       "avatar": "https://cdn.stjhub.com/blog/avatar.jpg"
+    },
+    {
+      "title": "待产包以及大件准备清单",
+      "created": "2024-10-15 22:18",
+      "link": "https://blog.bornforthis.cn/posts/4986156e.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "独立博客自省问卷15题",
