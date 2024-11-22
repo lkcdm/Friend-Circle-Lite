@@ -4,9 +4,16 @@
     "active_num": 48,
     "error_num": 22,
     "article_num": 215,
-    "last_updated_time": "2024-11-22 20:24:32"
+    "last_updated_time": "2024-11-23 02:18:01"
   },
   "article_data": [
+    {
+      "title": "Debian部署kvm虚拟机",
+      "created": "2024-11-23 00:34",
+      "link": "https://blog.goodboyboy.top/posts/4130692974.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+    },
     {
       "title": "高等微积分笔记 Lesson 20",
       "created": "2024-11-22 13:28",
@@ -657,13 +664,6 @@
       "link": "https://blog.xiowo.net/posts/f35ba82f/",
       "author": "Mo的记事簿",
       "avatar": "https://blog.xiowo.net/img/avatar.png"
-    },
-    {
-      "title": "狠狠白嫖了——宿舍X86服务器",
-      "created": "2024-10-15 14:23",
-      "link": "https://blog.goodboyboy.top/posts/1612666407.html",
-      "author": "GoodBoyboy's Blog",
-      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
       "title": "周末科技馆和濦溪湿地公园",
