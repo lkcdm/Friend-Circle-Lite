@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 51,
-    "error_num": 19,
-    "article_num": 240,
-    "last_updated_time": "2024-12-09 14:20:43"
+    "active_num": 52,
+    "error_num": 18,
+    "article_num": 245,
+    "last_updated_time": "2024-12-09 20:27:36"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "http://zxwlove.xyz/posts/4476cff4.html",
       "author": "浅小兮の梦",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
+      "title": "《人生海海》在平凡中发现不凡，在挫折中寻找希望",
+      "created": "2024-12-10 02:47",
+      "link": "https://blog.1zxbc.cn/archives/216.html",
+      "author": "一只小白菜 'Blog",
+      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
+    },
+    {
+      "title": "Feynman 物理学讲义 - Vol.III 札记 12",
+      "created": "2024-12-09 17:02",
+      "link": "https://physnya.top/2024/12/09/feynman-3-12/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "潘通 2025 年度色发布：PANTONE 17-1230 Mocha Mousse 摩卡慕斯",
@@ -48,6 +62,13 @@
       "link": "https://physnya.top/2024/12/08/integral23/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "周记·24年第50周",
+      "created": "2024-12-08 10:44",
+      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2450",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "本站近期的亿点点更改",
@@ -146,6 +167,13 @@
       "link": "https://blog.1zxbc.cn/archives/200.html",
       "author": "一只小白菜 'Blog",
       "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
+    },
+    {
+      "title": "近况·24年11月",
+      "created": "2024-12-05 00:40",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2411",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "Canokey Canary到货咯",
@@ -253,13 +281,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "Feynman 物理学讲义 - Vol.III 札记 10",
-      "created": "2024-12-02 22:35",
-      "link": "https://physnya.top/2024/12/02/feynman-3-10/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
       "title": "Steam 假入库代码详解分析",
       "created": "2024-12-02 18:12",
       "link": "https://blog.liuzhen932.top/posts/fake-steam-cdk/",
@@ -314,13 +335,6 @@
       "link": "https://www.iczrx.cn/archives/132/",
       "author": "晚夜的个人博客",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640"
-    },
-    {
-      "title": "搭建兰空图床程序配置腾讯云COS教程",
-      "created": "2024-12-01 03:52",
-      "link": "https://blog.1zxbc.cn/archives/196.html",
-      "author": "一只小白菜 'Blog",
-      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
     },
     {
       "title": "汪星走好",
@@ -890,6 +904,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
     },
     {
+      "title": "近况·24年09月",
+      "created": "2024-10-03 18:25",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2409",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "北京欢迎您！",
       "created": "2024-10-02 13:28",
       "link": "https://blog.yaria.top/posts/5ac2b9d6",
@@ -1072,6 +1093,13 @@
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
     },
     {
+      "title": "近况·24年08月",
+      "created": "2024-09-05 23:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "OpenGist--自部署代码片段保存项目",
       "created": "2024-09-05 00:06",
       "link": "https://blog.liushen.fun/posts/1ab3d6a1/",
@@ -1231,6 +1259,13 @@
       "link": "https://blog.nineya.com/archives/162.html",
       "author": "玖涯博客",
       "avatar": "https://blog.nineya.com/favicon.png"
+    },
+    {
+      "title": "近况·24年07月",
+      "created": "2024-08-02 10:16",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2407",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "学习笔记——STL模板库之数据结构",
