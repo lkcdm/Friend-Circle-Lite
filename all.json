@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 53,
-    "error_num": 17,
-    "article_num": 249,
-    "last_updated_time": "2024-12-19 14:19:48"
+    "active_num": 54,
+    "error_num": 16,
+    "article_num": 254,
+    "last_updated_time": "2024-12-19 20:24:55"
   },
   "article_data": [
     {
@@ -141,6 +141,13 @@
       "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
+      "title": "周记·24年第51周",
+      "created": "2024-12-15 11:06",
+      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2451",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "一周年快乐",
       "created": "2024-12-15 08:00",
       "link": "https://www.yoghurtlee.com/first-anniversary/",
@@ -267,6 +274,13 @@
       "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
     },
     {
+      "title": "周记·24年第50周",
+      "created": "2024-12-08 10:44",
+      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2450",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "本站近期的亿点点更改",
       "created": "2024-12-08 09:10",
       "link": "https://blog.liuzhen932.top/posts/changelog-202412/",
@@ -328,6 +342,13 @@
       "link": "https://www.iczrx.cn/archives/134/",
       "author": "晚夜的个人博客",
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640"
+    },
+    {
+      "title": "近况·24年11月",
+      "created": "2024-12-05 00:40",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2411",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "Canokey Canary到货咯",
@@ -953,6 +974,13 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
     },
     {
+      "title": "近况·24年09月",
+      "created": "2024-10-03 18:25",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2409",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
       "title": "北京欢迎您！",
       "created": "2024-10-02 13:28",
       "link": "https://blog.yaria.top/posts/5ac2b9d6",
@@ -1133,6 +1161,13 @@
       "link": "https://blog.yaria.top/posts/7c13269c",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
+      "title": "近况·24年08月",
+      "created": "2024-09-05 23:22",
+      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "OpenGist--自部署代码片段保存项目",
