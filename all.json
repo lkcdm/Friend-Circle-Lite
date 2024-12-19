@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 52,
-    "error_num": 18,
+    "active_num": 53,
+    "error_num": 17,
     "article_num": 249,
-    "last_updated_time": "2024-12-19 02:19:22"
+    "last_updated_time": "2024-12-19 08:59:52"
   },
   "article_data": [
+    {
+      "title": "年度总结 | 2025",
+      "created": "2025-01-01 00:00",
+      "link": "http://zxwlove.xyz/posts/4476cff4.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
     {
       "title": "说说：#1734508847",
       "created": "2024-12-19 00:00",
@@ -132,13 +139,6 @@
       "link": "https://blog.shiguang666.eu.org/2024/12/15/a9c615a71d17/",
       "author": "時光",
       "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
-      "title": "周记·24年第51周",
-      "created": "2024-12-15 11:06",
-      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2451",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "一周年快乐",
@@ -267,13 +267,6 @@
       "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
     },
     {
-      "title": "周记·24年第50周",
-      "created": "2024-12-08 10:44",
-      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2450",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
       "title": "本站近期的亿点点更改",
       "created": "2024-12-08 09:10",
       "link": "https://blog.liuzhen932.top/posts/changelog-202412/",
@@ -337,13 +330,6 @@
       "avatar": "https://q2.qlogo.cn/headimg_dl?dst_uin=1463656527&spec=640"
     },
     {
-      "title": "近况·24年11月",
-      "created": "2024-12-05 00:40",
-      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2411",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
       "title": "Canokey Canary到货咯",
       "created": "2024-12-04 20:46",
       "link": "https://blog.goodboyboy.top/posts/2076973366.html",
@@ -351,6 +337,13 @@
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
+      "title": "SQL Server(草稿版)",
+      "created": "2024-12-04 17:30",
+      "link": "http://zxwlove.xyz/posts/mysql003.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
       "title": "Mac上使用Drawthings的Flux模型进行扩图、补图",
       "created": "2024-12-04 17:21",
       "link": "https://blog.zhheo.com/p/5vi77cg0.html",
@@ -363,6 +356,13 @@
       "link": "https://blog.zhheo.com/p/5vi77cg0.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "Hive分区表和分桶表",
+      "created": "2024-12-04 16:51",
+      "link": "http://zxwlove.xyz/posts/hive07.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
       "title": "「2024」个人作品集（更新中）",
@@ -638,6 +638,13 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "Hive查询",
+      "created": "2024-11-11 17:56",
+      "link": "http://zxwlove.xyz/posts/hive06.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
       "title": "从碎片到系统：我的信息整理与优化之路",
       "created": "2024-11-11 08:00",
       "link": "https://www.lapis.cafe/posts/%E9%9A%8F%E7%AC%94/%E4%BB%8E%E7%A2%8E%E7%89%87%E5%88%B0%E7%B3%BB%E7%BB%9F%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF%E6%95%B4%E7%90%86%E4%B8%8E%E4%BC%98%E5%8C%96%E4%B9%8B%E8%B7%AF/",
@@ -678,6 +685,13 @@
       "link": "https://blog.bornforthis.cn/posts/1efa71b7.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "HCIA-821模拟卷",
+      "created": "2024-11-07 11:38",
+      "link": "http://zxwlove.xyz/posts/hcia-821.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
       "title": "Hexo教程(一) 博客更新指南",
@@ -939,13 +953,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
     },
     {
-      "title": "近况·24年09月",
-      "created": "2024-10-03 18:25",
-      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2409",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
-    },
-    {
       "title": "北京欢迎您！",
       "created": "2024-10-02 13:28",
       "link": "https://blog.yaria.top/posts/5ac2b9d6",
@@ -1126,13 +1133,6 @@
       "link": "https://blog.yaria.top/posts/7c13269c",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
-    },
-    {
-      "title": "近况·24年08月",
-      "created": "2024-09-05 23:22",
-      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2408",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "OpenGist--自部署代码片段保存项目",
