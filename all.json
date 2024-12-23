@@ -4,7 +4,7 @@
     "active_num": 51,
     "error_num": 19,
     "article_num": 235,
-    "last_updated_time": "2024-12-23 20:23:37"
+    "last_updated_time": "2024-12-24 02:16:44"
   },
   "article_data": [
     {
@@ -41,6 +41,13 @@
       "link": "https://blog.zhheo.com/p/qs34pfrn.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "简析投资中常见的技术指标和其背后的逻辑",
+      "created": "2024-12-23 08:00",
+      "link": "https://www.lapis.cafe/posts/%E9%87%91%E8%9E%8D%E4%B8%8E%E7%BB%8F%E6%B5%8E/investing-indicator-logic/",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "流水账 Week 14",
@@ -678,13 +685,6 @@
       "link": "https://mnchen.cn/posts/1013.html",
       "author": "前尘小筑",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
-      "title": "不再依赖平台：如何打造自己专属的博客网站？",
-      "created": "2024-11-06 08:00",
-      "link": "https://www.lapis.cafe/posts/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/%E4%B8%8D%E5%86%8D%E4%BE%9D%E8%B5%96%E5%B9%B3%E5%8F%B0%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E4%B8%93%E5%B1%9E%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "EasyPub-轻量Kindle电子书格式转换工具",
