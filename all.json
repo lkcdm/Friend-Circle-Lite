@@ -4,7 +4,7 @@
     "active_num": 53,
     "error_num": 17,
     "article_num": 249,
-    "last_updated_time": "2024-12-28 20:21:09"
+    "last_updated_time": "2024-12-29 02:15:44"
   },
   "article_data": [
     {
@@ -13,6 +13,20 @@
       "link": "http://zxwlove.xyz/posts/4476cff4.html",
       "author": "浅小兮の梦",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
+      "title": "周记·24年第53周",
+      "created": "2024-12-28 22:53",
+      "link": "https://blog.kfdzcoffee.cn/archives/weeklydiary-2453",
+      "author": "咖啡豆子 coffee 的小站",
+      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
+      "title": "Feynman 物理学讲义 - Vol.III 札记 习题课",
+      "created": "2024-12-28 20:21",
+      "link": "https://physnya.top/2024/12/28/feynman-3-exercise/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "再见2024 · 共赴一场烟火绚烂",
@@ -83,6 +97,13 @@
       "link": "https://blog.sinzmise.top/posts/65382/",
       "author": "汐塔魔法屋",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/10/07/028395.webp"
+    },
+    {
+      "title": "在线开源图片批量压缩工具",
+      "created": "2024-12-26 00:00",
+      "link": "https://dusays.com/782/",
+      "author": "杜老师说",
+      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "最后一次彻底优化，如果还是不行就放弃了",
@@ -174,13 +195,6 @@
       "link": "https://dusays.com/781/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
-    },
-    {
-      "title": "流水账 Week 14",
-      "created": "2024-12-22 23:57",
-      "link": "https://physnya.top/2024/12/22/weekly-14/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "端口占用时部署Discourse的指南",
@@ -405,13 +419,6 @@
       "link": "https://blog.goodboyboy.top/posts/650129456.html",
       "author": "GoodBoyboy's Blog",
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
-    },
-    {
-      "title": "上海游记「多图预警」",
-      "created": "2024-12-11 00:00",
-      "link": "https://dusays.com/777/",
-      "author": "杜老师说",
-      "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
       "title": "如何几乎不损失视频画质而大幅度压缩视频？来试试VBR可变比特率吧！",
@@ -979,13 +986,6 @@
       "link": "https://hexo.dreamerhe.cn/posts/19335/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
-    },
-    {
-      "title": "近况·24年09月",
-      "created": "2024-10-03 18:25",
-      "link": "https://blog.kfdzcoffee.cn/archives/jinkuang-2409",
-      "author": "咖啡豆子 coffee 的小站",
-      "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
     },
     {
       "title": "北京欢迎您！",
