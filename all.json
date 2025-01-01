@@ -1,12 +1,19 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 52,
-    "error_num": 18,
-    "article_num": 234,
-    "last_updated_time": "2025-01-01 02:17:02"
+    "active_num": 53,
+    "error_num": 17,
+    "article_num": 244,
+    "last_updated_time": "2025-01-01 09:01:06"
   },
   "article_data": [
+    {
+      "title": "2025年 - 新年快乐",
+      "created": "2025-01-01 08:01",
+      "link": "https://blog.1zxbc.cn/archives/247.html",
+      "author": "一只小白菜 'Blog",
+      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
+    },
     {
       "title": "说说：#1735656761",
       "created": "2025-01-01 06:52",
@@ -27,6 +34,13 @@
       "link": "https://dusays.com/784/",
       "author": "杜老师说",
       "avatar": "https://cdn.dusays.com/avatar.png"
+    },
+    {
+      "title": "年度总结 | 2025",
+      "created": "2025-01-01 00:00",
+      "link": "http://zxwlove.xyz/posts/4476cff4.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
       "title": "元旦快乐",
@@ -62,6 +76,13 @@
       "link": "https://blog.yaria.top/posts/f445e0f8",
       "author": "Ariasakaの小窝",
       "avatar": "https://weavatar.com/avatar/795ce413eb6c7485954b78283ffa3e00"
+    },
+    {
+      "title": "二四年十二月小结",
+      "created": "2024-12-31 09:02",
+      "link": "https://xyzbz.cn/archives/1307/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "2.5G交换机 TL-SE2420 简单开箱评测，16个2.5G电口+4个10G光口(SFP+)",
@@ -246,6 +267,13 @@
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
+      "title": "二四年季节专属-冬至小纪",
+      "created": "2024-12-24 00:57",
+      "link": "https://xyzbz.cn/archives/1303/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
       "title": "Feynman 物理学讲义 - Vol.III 札记 16",
       "created": "2024-12-23 17:00",
       "link": "https://physnya.top/2024/12/23/feynman-3-16/",
@@ -358,6 +386,13 @@
       "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
+      "title": "小厨成长记-NO.1",
+      "created": "2024-12-18 22:25",
+      "link": "https://xyzbz.cn/archives/1300/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
       "title": "AE如何制作滚动数字，滚动文字风格动画教程",
       "created": "2024-12-18 10:17",
       "link": "https://blog.zhheo.com/p/zyfdg7nj.html",
@@ -426,6 +461,13 @@
       "link": "https://blog.bsgun.cn/posts/1e644080/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
+    },
+    {
+      "title": "三年年终记",
+      "created": "2024-12-15 11:41",
+      "link": "https://xyzbz.cn/archives/1282/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "周记·24年第51周",
@@ -519,13 +561,6 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
-      "title": "冬季，是个适合吃火锅的季节",
-      "created": "2024-12-08 02:50",
-      "link": "https://blog.1zxbc.cn/archives/199.html",
-      "author": "一只小白菜 'Blog",
-      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2694199949&s=100"
-    },
-    {
       "title": "彼方的她：一场跨越时空的对话，一段孤寂宇宙的回响",
       "created": "2024-12-07 15:25",
       "link": "http://blog.awaae001.top/posts/23435.html",
@@ -545,6 +580,27 @@
       "link": "https://blog.bornforthis.cn/posts/3fceba58.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "SQL Server(草稿版)",
+      "created": "2024-12-04 17:30",
+      "link": "http://zxwlove.xyz/posts/mysql003.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
+      "title": "Hive分区表和分桶表",
+      "created": "2024-12-04 16:51",
+      "link": "http://zxwlove.xyz/posts/hive07.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
+      "title": "车检这件事",
+      "created": "2024-12-04 01:51",
+      "link": "https://xyzbz.cn/archives/1247/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "简析经济学与金融学实证中的几个常用简单模型",
@@ -701,6 +757,13 @@
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
     },
     {
+      "title": "Hive查询",
+      "created": "2024-11-11 17:56",
+      "link": "http://zxwlove.xyz/posts/hive06.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
+    },
+    {
       "title": "【优化】我又申请到免费的一年SSL证书！附教程",
       "created": "2024-11-11 05:27",
       "link": "https://luoca.cn/archives/146.html",
@@ -734,6 +797,13 @@
       "link": "https://blog.bornforthis.cn/posts/1efa71b7.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "HCIA-821模拟卷",
+      "created": "2024-11-07 11:38",
+      "link": "http://zxwlove.xyz/posts/hcia-821.html",
+      "author": "浅小兮の梦",
+      "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
     },
     {
       "title": "Hexo教程(一) 博客更新指南",
