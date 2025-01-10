@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 51,
-    "error_num": 19,
-    "article_num": 239,
-    "last_updated_time": "2025-01-10 20:23:56"
+    "active_num": 50,
+    "error_num": 20,
+    "article_num": 235,
+    "last_updated_time": "2025-01-11 02:17:24"
   },
   "article_data": [
     {
@@ -34,6 +34,13 @@
       "link": "https://blog.zhheo.com/p/o29mpcwr.html",
       "author": "张洪Heo",
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "2024 年终总结",
+      "created": "2025-01-10 09:40",
+      "link": "https://physnya.top/2025/01/10/2024/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "使用 Qwen VL 系列模型实现图片分类和OCR任务",
@@ -435,13 +442,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
-      "title": "Feynman 物理学讲义 - Vol.III 札记 16",
-      "created": "2024-12-23 17:00",
-      "link": "https://physnya.top/2024/12/23/feynman-3-16/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
       "title": "我在2025年推荐的Mac软件",
       "created": "2024-12-23 10:56",
       "link": "https://blog.zhheo.com/p/qs34pfrn.html",
@@ -601,13 +601,6 @@
       "link": "https://blog.elykia.cn/posts/21.html",
       "author": "Elykia",
       "avatar": "https://img.elykia.cn/2024/E_0.gif"
-    },
-    {
-      "title": "《长安十二时辰》书评：无人翻阅，无人吟唱",
-      "created": "2024-12-14 14:49",
-      "link": "https://akira.xin/archives/changan-shier-shichen-shuping/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "新一代静态博客框架Astro的部署优化指南与使用体验",
@@ -890,13 +883,6 @@
       "avatar": "https://blog.xing-ye.top/avatar.webp"
     },
     {
-      "title": "『Navidrome』x『音流』诗兴礼乐",
-      "created": "2024-10-31 21:17",
-      "link": "https://akira.xin/archives/navidrome-yinliu/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
-    },
-    {
       "title": "【日常】终于丢掉眼镜！记一次全飞秒手术",
       "created": "2024-10-30 15:07",
       "link": "https://luoca.cn/archives/143.html",
@@ -951,13 +937,6 @@
       "link": "https://blog.sinzmise.top/posts/61712/",
       "author": "汐塔魔法屋",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/10/07/028395.webp"
-    },
-    {
-      "title": "「雷池 WAF」防御攻击、页面混淆、人机验证、身份验证",
-      "created": "2024-10-26 13:17",
-      "link": "https://akira.xin/archives/safeline-waf/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "在页脚位置添加动物（pjax修复）",
@@ -1063,13 +1042,6 @@
       "link": "https://www.luyaoguagua.top/Med/pharmacology",
       "author": "Gua’s Nest",
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
-      "title": "使用Foobar2000内嵌LRC歌词、回放增益",
-      "created": "2024-10-01 10:00",
-      "link": "https://akira.xin/archives/foobar2000-lrc-replaygain/",
-      "author": "蛍木タルのBlog",
-      "avatar": "https://i1.wp.com/websitephoto.cn-sy1.rains3.com/firefly-avatar.jpg"
     },
     {
       "title": "Chsrc--全功能一键换源工具",
