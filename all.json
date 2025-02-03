@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 49,
-    "error_num": 21,
+    "active_num": 48,
+    "error_num": 22,
     "article_num": 220,
-    "last_updated_time": "2025-02-03 20:21:58"
+    "last_updated_time": "2025-02-04 02:15:57"
   },
   "article_data": [
     {
@@ -13,6 +13,13 @@
       "link": "https://luolt.cn/archives/2953.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
+    {
+      "title": "流水账 Week 16",
+      "created": "2025-02-03 20:33",
+      "link": "https://physnya.top/2025/02/03/weekly-16/",
+      "author": "菲兹克斯喵blog",
+      "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
       "title": "DeepSeek API挂了？SiliconFlow来救！",
@@ -578,13 +585,6 @@
       "title": "高等微积分笔记 Lesson 29",
       "created": "2024-12-27 14:05",
       "link": "https://physnya.top/2024/12/27/integral29/",
-      "author": "菲兹克斯喵blog",
-      "avatar": "https://physnya.top/img/physics_nya.jpg"
-    },
-    {
-      "title": "Feynman 物理学讲义 - Vol.III 札记 17",
-      "created": "2024-12-25 17:27",
-      "link": "https://physnya.top/2024/12/25/feynman-3-17/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
