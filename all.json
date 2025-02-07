@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 49,
-    "error_num": 21,
-    "article_num": 225,
-    "last_updated_time": "2025-02-07 20:21:42"
+    "active_num": 50,
+    "error_num": 20,
+    "article_num": 230,
+    "last_updated_time": "2025-02-08 02:15:47"
   },
   "article_data": [
     {
@@ -491,6 +491,20 @@
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
+      "title": "1panel自定义博客的404页面",
+      "created": "2025-01-17 17:26",
+      "link": "https://blog.elykia.cn/posts/23.html",
+      "author": "Elykia",
+      "avatar": "https://img.elykia.cn/2024/E_0.gif"
+    },
+    {
+      "title": "郑州大学宿舍电量监控：ZZU-Dorm-Electricity-Balance",
+      "created": "2025-01-16 21:22",
+      "link": "https://blog.elykia.cn/posts/22.html",
+      "author": "Elykia",
+      "avatar": "https://img.elykia.cn/2024/E_0.gif"
+    },
+    {
       "title": "Vue学习之路（1）",
       "created": "2025-01-16 20:44",
       "link": "https://hexo.dreamerhe.cn/posts/4366/",
@@ -750,6 +764,13 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
+      "title": "Hexo教程(四) Layout详解：从原理到应用",
+      "created": "2024-12-14 17:11",
+      "link": "https://blog.elykia.cn/posts/21.html",
+      "author": "Elykia",
+      "avatar": "https://img.elykia.cn/2024/E_0.gif"
+    },
+    {
       "title": "Ephemeralis-Weekly（14）：泡沫箱里的宣纸",
       "created": "2024-12-08 08:00",
       "link": "https://chlor.me/weekly-14/",
@@ -783,6 +804,13 @@
       "link": "https://hexo.dreamerhe.cn/posts/10605/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
+    },
+    {
+      "title": "Hexo教程(三) Web前端“三剑客”",
+      "created": "2024-11-29 13:43",
+      "link": "https://blog.elykia.cn/posts/20.html",
+      "author": "Elykia",
+      "avatar": "https://img.elykia.cn/2024/E_0.gif"
     },
     {
       "title": "从被轻视到被敬仰",
@@ -832,6 +860,13 @@
       "link": "https://blog.linux-qitong.top/posts/c06a1f35/",
       "author": "青稚の空间",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
+    },
+    {
+      "title": "Hexo教程(二) 基本文件结构",
+      "created": "2024-11-15 21:11",
+      "link": "https://blog.elykia.cn/posts/19.html",
+      "author": "Elykia",
+      "avatar": "https://img.elykia.cn/2024/E_0.gif"
     },
     {
       "title": "【知行小酒馆】对话张云帆——规划人生",
