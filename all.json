@@ -1,12 +1,26 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 50,
-    "error_num": 20,
-    "article_num": 225,
-    "last_updated_time": "2025-02-07 08:55:24"
+    "active_num": 49,
+    "error_num": 21,
+    "article_num": 220,
+    "last_updated_time": "2025-02-07 14:17:20"
   },
   "article_data": [
+    {
+      "title": "Typecho插件-LinkGo：外链转内链插件融合发布",
+      "created": "2025-02-07 21:27",
+      "link": "https://xyzbz.cn/archives/1325/",
+      "author": "网友小宋",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
+      "title": "「2024」ZHXU·个人作品集",
+      "created": "2025-02-07 17:45",
+      "link": "https://www.zhxubk.cn/archives/363.html",
+      "author": "粥粥博客志",
+      "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
+    },
     {
       "title": "Linux搭建Minecraft《龙之冒险:新征程2.0》整合包服务器 | 我的世界开服教程",
       "created": "2025-02-07 11:53",
@@ -85,6 +99,13 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
+      "title": "重新认识我",
+      "created": "2025-02-05 00:15",
+      "link": "https://blog.647382.xyz/posts/talk/about-me",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
       "title": "好多年没有出去！！！打工了",
       "created": "2025-02-04 01:00",
       "link": "https://luolt.cn/archives/2953.html",
@@ -153,6 +174,13 @@
       "link": "https://blog.bornforthis.cn/posts/c3c4188c.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "记录 2025 年第 33 天",
+      "created": "2025-02-02 19:40",
+      "link": "https://blog.647382.xyz/notes/12",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "苹果 Mac Mini M4 迷你主机简单测评和拆解，最强单核性能的小主机",
@@ -288,6 +316,13 @@
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
+      "title": "记录 2025 年第 26 天",
+      "created": "2025-01-26 12:04",
+      "link": "https://blog.647382.xyz/notes/11",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
       "title": "盘点2024我的开源项目",
       "created": "2025-01-26 00:15",
       "link": "https://blog.bsgun.cn/posts/17ce10fc/",
@@ -316,6 +351,20 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
     },
     {
+      "title": "关于本站文章分类调整的公告",
+      "created": "2025-01-24 01:02",
+      "link": "https://blog.647382.xyz/posts/notice/change-typr",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
+      "title": "半夜杂谈一年后",
+      "created": "2025-01-24 00:45",
+      "link": "https://blog.647382.xyz/notes/10",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
       "title": "公共澡堂洗澡体验",
       "created": "2025-01-23 09:23",
       "link": "https://blog.linux-qitong.top/posts/851d5ed7/",
@@ -335,13 +384,6 @@
       "link": "https://www.lapis.cafe/posts/ai--deep-learning/deeplearning-research-002/",
       "author": "时歌的博客",
       "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
-    },
-    {
-      "title": "「2024」ZHXU·个人作品集",
-      "created": "2025-01-22 00:50",
-      "link": "https://www.zhxubk.cn/archives/363.html",
-      "author": "粥粥博客志",
-      "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
       "title": "FreeFileSync 开源文件同步与备份利器",
@@ -666,13 +708,6 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "二四年季节专属-冬至小纪",
-      "created": "2024-12-24 00:57",
-      "link": "https://xyzbz.cn/archives/1303/",
-      "author": "网友小宋",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "端口占用时部署Discourse的指南",
       "created": "2024-12-22 20:30",
       "link": "https://www.biliwind.com/posts/guide-to-deploying-discourse-when-ports-are-occupied.html",
@@ -806,13 +841,6 @@
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
-      "title": "人生的意义到底是什么",
-      "created": "2024-11-18 08:23",
-      "link": "https://mnchen.cn/posts/1014.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "聊聊键盘！（一）配列",
       "created": "2024-11-16 21:00",
       "link": "https://blog.sdnie.fun/archives/keyboard.html",
@@ -860,13 +888,6 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "anzhiyu主题自定义博客字体",
-      "created": "2024-11-06 08:23",
-      "link": "https://mnchen.cn/posts/1013.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "EasyPub-轻量Kindle电子书格式转换工具",
@@ -925,25 +946,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "在页脚位置添加动物（pjax修复）",
-      "created": "2024-10-25 00:00",
-      "link": "https://mnchen.cn/posts/1012.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "数据结构-线性表（顺序表）",
       "created": "2024-10-24 17:07",
       "link": "https://xingji.fun/posts/20241024/",
       "author": "XingJiのBlog",
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
-    },
-    {
-      "title": "python爬虫分享（爬取静态网站）",
-      "created": "2024-10-18 00:00",
-      "link": "https://mnchen.cn/posts/1011.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "Linux root 账户及 ssh 链接问题",
@@ -1014,13 +1021,6 @@
       "link": "https://www.luyaoguagua.top/Med/pharmacology",
       "author": "Gua’s Nest",
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
-      "title": "在公告栏添加一个随机ikun",
-      "created": "2024-10-01 00:00",
-      "link": "https://mnchen.cn/posts/1010.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "Flex-布局的基本使用（基本啦！！）",
@@ -1210,13 +1210,6 @@
       "link": "https://www.ordchaos.com/posts/8752b65a/",
       "author": "序炁",
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
-    },
-    {
-      "title": "人没逝，感谢关心（咬牙切齿）",
-      "created": "2024-08-01 18:46",
-      "link": "https://blog.leonus.cn/2024/alive.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "Linux搭建Minecraft互通服教程",
@@ -1443,13 +1436,6 @@
       "avatar": "https://bokebo.com/logo.png"
     },
     {
-      "title": "新年倒计时改良&随便说说",
-      "created": "2023-12-25 20:24",
-      "link": "https://blog.leonus.cn/2023/newYearCard2.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
       "title": "使用Docker部署chatGPT",
       "created": "2023-12-20 11:17",
       "link": "https://kamiasuka.top/archives/766",
@@ -1476,27 +1462,6 @@
       "link": "https://kamiasuka.top/archives/631",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
-    },
-    {
-      "title": "幽门螺旋杆菌的治疗",
-      "created": "2023-11-12 12:10",
-      "link": "https://blog.leonus.cn/2023/Helicobacter-pylori.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "《光年 星环》蓝牙耳机购买体验",
-      "created": "2023-11-07 20:14",
-      "link": "https://blog.leonus.cn/2023/star-ring.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
-    },
-    {
-      "title": "最近我都干了些什么",
-      "created": "2023-10-22 09:05",
-      "link": "https://blog.leonus.cn/2023/recently.html",
-      "author": "Leonus",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=990320751&s=5"
     },
     {
       "title": "退役催化剂",
