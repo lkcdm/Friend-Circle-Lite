@@ -1,18 +1,25 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 50,
-    "error_num": 20,
-    "article_num": 225,
-    "last_updated_time": "2025-02-08 14:14:53"
+    "active_num": 46,
+    "error_num": 24,
+    "article_num": 210,
+    "last_updated_time": "2025-02-08 20:21:38"
   },
   "article_data": [
     {
-      "title": "初一“细胞”思维导图",
-      "created": "2025-02-08 13:21",
-      "link": "https://ooo.gg/1811.html",
-      "author": "小雀的啾窝",
-      "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
+      "title": "HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份",
+      "created": "2025-02-08 14:18",
+      "link": "https://blog.zhheo.com/p/e57iwlsu.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
+    },
+    {
+      "title": "HomeAssistant如何设置自动备份，定期自动备份并自动删除旧备份",
+      "created": "2025-02-08 14:18",
+      "link": "https://blog.zhheo.com/p/e57iwlsu.html",
+      "author": "张洪Heo",
+      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "Typecho插件-LinkGo：外链转内链插件融合发布",
@@ -120,18 +127,11 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "摄影:灿烂路灯",
-      "created": "2025-02-04 18:29",
-      "link": "https://ooo.gg/1805.html",
-      "author": "小雀的啾窝",
-      "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
-    },
-    {
-      "title": "满级翻译",
-      "created": "2025-02-04 16:31",
-      "link": "https://ooo.gg/1796.html",
-      "author": "小雀的啾窝",
-      "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
+      "title": "重新认识我",
+      "created": "2025-02-05 00:15",
+      "link": "https://blog.647382.xyz/posts/talk/about-me",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "好多年没有出去！！！打工了",
@@ -204,18 +204,11 @@
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
-      "title": "哇哇，语文作业要写甲骨文",
-      "created": "2025-02-02 17:05",
-      "link": "https://ooo.gg/1787.html",
-      "author": "小雀的啾窝",
-      "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
-    },
-    {
-      "title": "不会写甲骨文，不及3600多年以前的人类",
-      "created": "2025-02-02 16:52",
-      "link": "https://ooo.gg/1781.html",
-      "author": "小雀的啾窝",
-      "avatar": "https://ooo.gg/imgurl/images/penguin_red.jpg"
+      "title": "记录 2025 年第 33 天",
+      "created": "2025-02-02 19:40",
+      "link": "https://blog.647382.xyz/notes/12",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "苹果 Mac Mini M4 迷你主机简单测评和拆解，最强单核性能的小主机",
@@ -351,6 +344,13 @@
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
+      "title": "记录 2025 年第 26 天",
+      "created": "2025-01-26 12:04",
+      "link": "https://blog.647382.xyz/notes/11",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
       "title": "盘点2024我的开源项目",
       "created": "2025-01-26 00:15",
       "link": "https://blog.bsgun.cn/posts/17ce10fc/",
@@ -377,6 +377,20 @@
       "link": "https://hexo.dreamerhe.cn/posts/4410/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
+    },
+    {
+      "title": "关于本站文章分类调整的公告",
+      "created": "2025-01-24 01:02",
+      "link": "https://blog.647382.xyz/posts/notice/change-typr",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
+    },
+    {
+      "title": "半夜杂谈一年后",
+      "created": "2025-01-24 00:45",
+      "link": "https://blog.647382.xyz/notes/10",
+      "author": "烧瑚烙饼乱刨笔记",
+      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "公共澡堂洗澡体验",
@@ -412,20 +426,6 @@
       "link": "https://blog.bornforthis.cn/posts/518b3eef.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
-    },
-    {
-      "title": "咕哩的年度红包封面在这里领取～",
-      "created": "2025-01-20 19:09",
-      "link": "https://blog.zhheo.com/p/06wziydu.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
-    },
-    {
-      "title": "咕哩的年度红包封面在这里领取～",
-      "created": "2025-01-20 19:09",
-      "link": "https://blog.zhheo.com/p/06wziydu.html",
-      "author": "张洪Heo",
-      "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
       "title": "续期Azure学生账户的曲折经历",
@@ -489,20 +489,6 @@
       "link": "https://xyzbz.cn/archives/1312/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
-      "title": "1panel自定义博客的404页面",
-      "created": "2025-01-17 17:26",
-      "link": "https://blog.elykia.cn/posts/23.html",
-      "author": "Elykia",
-      "avatar": "https://img.elykia.cn/2024/E_0.gif"
-    },
-    {
-      "title": "郑州大学宿舍电量监控：ZZU-Dorm-Electricity-Balance",
-      "created": "2025-01-16 21:22",
-      "link": "https://blog.elykia.cn/posts/22.html",
-      "author": "Elykia",
-      "avatar": "https://img.elykia.cn/2024/E_0.gif"
     },
     {
       "title": "Vue学习之路（1）",
@@ -764,13 +750,6 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
-      "title": "Hexo教程(四) Layout详解：从原理到应用",
-      "created": "2024-12-14 17:11",
-      "link": "https://blog.elykia.cn/posts/21.html",
-      "author": "Elykia",
-      "avatar": "https://img.elykia.cn/2024/E_0.gif"
-    },
-    {
       "title": "Ephemeralis-Weekly（14）：泡沫箱里的宣纸",
       "created": "2024-12-08 08:00",
       "link": "https://chlor.me/weekly-14/",
@@ -806,13 +785,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
     },
     {
-      "title": "Hexo教程(三) Web前端“三剑客”",
-      "created": "2024-11-29 13:43",
-      "link": "https://blog.elykia.cn/posts/20.html",
-      "author": "Elykia",
-      "avatar": "https://img.elykia.cn/2024/E_0.gif"
-    },
-    {
       "title": "从被轻视到被敬仰",
       "created": "2024-11-26 23:20",
       "link": "https://blog.linux-qitong.top/posts/afe2aeac/",
@@ -827,25 +799,11 @@
       "avatar": "https://r2.2776655.xyz/avatar.webp"
     },
     {
-      "title": "如何在Linux中更新Oh My Zsh",
-      "created": "2024-11-21 07:07",
-      "link": "https://atxrom.com/archives/37/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
       "title": "说说：#1731990659",
       "created": "2024-11-19 20:30",
       "link": "https://www.zhxubk.cn/archives/8a553976.html",
       "author": "粥粥博客志",
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
-    },
-    {
-      "title": "人生的意义到底是什么",
-      "created": "2024-11-18 08:23",
-      "link": "https://mnchen.cn/posts/1014.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "聊聊键盘！（一）配列",
@@ -860,13 +818,6 @@
       "link": "https://blog.linux-qitong.top/posts/c06a1f35/",
       "author": "青稚の空间",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
-    },
-    {
-      "title": "Hexo教程(二) 基本文件结构",
-      "created": "2024-11-15 21:11",
-      "link": "https://blog.elykia.cn/posts/19.html",
-      "author": "Elykia",
-      "avatar": "https://img.elykia.cn/2024/E_0.gif"
     },
     {
       "title": "【知行小酒馆】对话张云帆——规划人生",
@@ -895,13 +846,6 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "anzhiyu主题自定义博客字体",
-      "created": "2024-11-06 08:23",
-      "link": "https://mnchen.cn/posts/1013.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "EasyPub-轻量Kindle电子书格式转换工具",
@@ -960,25 +904,11 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
-      "title": "在页脚位置添加动物（pjax修复）",
-      "created": "2024-10-25 00:00",
-      "link": "https://mnchen.cn/posts/1012.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "数据结构-线性表（顺序表）",
       "created": "2024-10-24 17:07",
       "link": "https://xingji.fun/posts/20241024/",
       "author": "XingJiのBlog",
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
-    },
-    {
-      "title": "python爬虫分享（爬取静态网站）",
-      "created": "2024-10-18 00:00",
-      "link": "https://mnchen.cn/posts/1011.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "Linux root 账户及 ssh 链接问题",
@@ -1051,13 +981,6 @@
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
     },
     {
-      "title": "在公告栏添加一个随机ikun",
-      "created": "2024-10-01 00:00",
-      "link": "https://mnchen.cn/posts/1010.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "Flex-布局的基本使用（基本啦！！）",
       "created": "2024-09-24 20:47",
       "link": "https://stjhub.com/archives/9e92cce1-96c4-4720-961a-e449f4a52749",
@@ -1098,13 +1021,6 @@
       "link": "https://blog.linux-qitong.top/posts/305bae84/",
       "author": "青稚の空间",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/766241.webp"
-    },
-    {
-      "title": "Docker安装Napcat反向ws",
-      "created": "2024-09-14 23:17",
-      "link": "https://atxrom.com/archives/26/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "从小白蜕变成建站大佬（1）寻找开源项目",
@@ -1212,13 +1128,6 @@
       "avatar": "https://www.ordchaos.com/img/avatar.jpg"
     },
     {
-      "title": "redis7.4安装",
-      "created": "2024-08-11 04:52",
-      "link": "https://atxrom.com/archives/25/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
       "title": "学习笔记——分块、线段树",
       "created": "2024-08-05 21:08",
       "link": "https://www.ordchaos.com/posts/6e841aef/",
@@ -1315,20 +1224,6 @@
       "link": "https://blog.sloray.com/archives/axigen-mail-server-deployment-records",
       "author": "静线数据库",
       "avatar": "https://i1.wp.com/blog.sloray.com/usr/uploads/mainavatar.webp"
-    },
-    {
-      "title": "TRSS-Yunzai 机器人安装教程",
-      "created": "2024-06-15 07:36",
-      "link": "https://atxrom.com/archives/13/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
-    },
-    {
-      "title": "handsome 主题美化记录",
-      "created": "2024-06-15 07:32",
-      "link": "https://atxrom.com/archives/11/",
-      "author": "小熊熊",
-      "avatar": "https://i1.wp.com/atxrom.com/logo.png"
     },
     {
       "title": "解决网站 URL 加个 index.html 后 Twikoo 评论显示问题",
