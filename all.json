@@ -4,9 +4,23 @@
     "active_num": 49,
     "error_num": 21,
     "article_num": 225,
-    "last_updated_time": "2025-02-10 08:58:07"
+    "last_updated_time": "2025-02-10 14:19:29"
   },
   "article_data": [
+    {
+      "title": "如何在本地 PC 上安装和使用 DeepSeek R-1",
+      "created": "2025-02-10 11:34",
+      "link": "https://blog.bornforthis.cn/posts/81489b64.html",
+      "author": "AI 悦创",
+      "avatar": "https://bornforthis.cn/aiyc.svg"
+    },
+    {
+      "title": "腾讯云开放DeepSeek-V3/R1 671B大模型，限时免费体验",
+      "created": "2025-02-10 11:11",
+      "link": "https://blog.shiguang666.eu.org/2025/02/10/fe3e9fef9d61/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
     {
       "title": "Typecho与WordPress全面对比分析",
       "created": "2025-02-10 02:35",
@@ -20,6 +34,20 @@
       "link": "https://physnya.top/2025/02/09/announce/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "DeepSeek-R1 微信整合教程：避免封号，轻松实现！",
+      "created": "2025-02-09 21:32",
+      "link": "https://blog.shiguang666.eu.org/2025/02/09/052e5f5b4c9c/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "自定义ollama模型存储位置",
+      "created": "2025-02-09 20:28",
+      "link": "https://blog.shiguang666.eu.org/2025/02/09/bbbbbc4a5fc8/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "回答——Dayu的九个问题",
@@ -48,6 +76,20 @@
       "link": "https://luolt.cn/archives/2955.html",
       "author": "洛丽糖",
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
+    },
+    {
+      "title": "DeepSeek R1 越狱成功！无审查、无政治倾向，AI 自由了吗？附模型下载",
+      "created": "2025-02-09 14:55",
+      "link": "https://blog.shiguang666.eu.org/2025/02/09/c9d65987b6b6/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
+    },
+    {
+      "title": "全面开源！DeepSeek R1 671B 官方版发布，支持本地+云端部署，绕过硬件限制",
+      "created": "2025-02-09 14:20",
+      "link": "https://blog.shiguang666.eu.org/2025/02/09/d1592a09ab15/",
+      "author": "時光",
+      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "Hello，Forgejo",
@@ -393,13 +435,6 @@
       "avatar": "https://cdn.dusays.com/avatar.png"
     },
     {
-      "title": "【Hexo】给网站添加春节灯笼挂件",
-      "created": "2025-01-27 22:05",
-      "link": "https://blog.shiguang666.eu.org/2025/01/27/ee0479b506ca/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
       "title": "给你的 Hexo 博客添加灯笼和春联「改进」",
       "created": "2025-01-27 10:41",
       "link": "https://blog.bornforthis.cn/posts/410c2166.html",
@@ -652,27 +687,6 @@
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
     },
     {
-      "title": "【尚硅谷】JVM-垃圾回收篇",
-      "created": "2025-01-03 16:15",
-      "link": "https://blog.shiguang666.eu.org/2025/01/03/0774b72a23d9/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
-      "title": "【尚硅谷】JVM-执行引擎篇",
-      "created": "2025-01-03 14:50",
-      "link": "https://blog.shiguang666.eu.org/2025/01/03/7e4937efeeff/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
-      "title": "【尚硅谷】JVM-对象内存布局篇",
-      "created": "2025-01-03 13:35",
-      "link": "https://blog.shiguang666.eu.org/2025/01/03/2f12d193da4e/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
-    },
-    {
       "title": "我的 2024 —— 从 A 到 Z",
       "created": "2025-01-01 08:00",
       "link": "https://blog.liuzhen932.top/posts/back-2024/",
@@ -706,13 +720,6 @@
       "link": "https://xyzbz.cn/archives/1307/",
       "author": "网友小宋",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
-      "title": "待产日记",
-      "created": "2024-12-29 20:50",
-      "link": "https://blog.bornforthis.cn/posts/9a28c1d0.html",
-      "author": "AI 悦创",
-      "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
       "title": "打造高效团队",
@@ -755,13 +762,6 @@
       "link": "https://blog.xing-ye.top/posts/397c083a/",
       "author": "XINGYE's Blog",
       "avatar": "https://blog.xing-ye.top/avatar.webp"
-    },
-    {
-      "title": "ChatGPT 桌面版免费发布：体验多种应用交互模式！",
-      "created": "2024-12-20 20:12",
-      "link": "https://blog.shiguang666.eu.org/2024/12/20/faa89baba309/",
-      "author": "時光",
-      "avatar": "https://i1.wp.com/blog.shiguang666.eu.org/img/avatar.png"
     },
     {
       "title": "说说：#1734508847",
