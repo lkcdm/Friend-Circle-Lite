@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 49,
-    "error_num": 21,
-    "article_num": 225,
-    "last_updated_time": "2025-02-11 20:24:28"
+    "active_num": 50,
+    "error_num": 20,
+    "article_num": 230,
+    "last_updated_time": "2025-02-12 02:16:26"
   },
   "article_data": [
     {
@@ -302,13 +302,6 @@
       "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
-      "title": "当信息流开始遵循我的语法：TG RSS BOT 搭建教程与开源项目推荐",
-      "created": "2025-02-03 08:00",
-      "link": "https://www.lapis.cafe/posts/technicaltutorials/tgrss-revival/",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
-    },
-    {
       "title": "在Mac上部署DeepSeek R1模型，设置知识库对话、Prompt等",
       "created": "2025-02-02 22:21",
       "link": "https://blog.zhheo.com/p/no66tkfp.html",
@@ -447,20 +440,6 @@
       "link": "http://zxwlove.xyz/posts/docker08.html",
       "author": "浅小兮の梦",
       "avatar": "https://i1.wp.com/imgse.koxiuqiu.cn/i/2024/07/10/sgctom.png"
-    },
-    {
-      "title": "2025年1月投资月报：耐心、预期管理与认知局限",
-      "created": "2025-01-28 08:00",
-      "link": "https://www.lapis.cafe/posts/scheduledreport/trading-monthly-report-01/",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
-    },
-    {
-      "title": "用飞书多维文档打造博客书架页—支持 GitHub Actions 自动更新",
-      "created": "2025-01-28 08:00",
-      "link": "https://www.lapis.cafe/posts/technicaltutorials/bookshelf-with-feishu/",
-      "author": "时歌的博客",
-      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "给你的 Hexo 博客添加灯笼和春联「改进」",
@@ -673,6 +652,13 @@
       "avatar": "https://blog.liushen.fun/info/avatar.ico"
     },
     {
+      "title": "模型考古学（一）：大模型原理探赜",
+      "created": "2025-01-13 08:00",
+      "link": "https://www.lapis.cafe/posts/ai--deep-learning/deeplearning-research-001/",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
+    {
       "title": "比IDM更好用，更现代化的下载器",
       "created": "2025-01-12 07:49",
       "link": "https://lin-blog.xyz/archives/2025/01120749/",
@@ -701,6 +687,13 @@
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
+      "title": "使用 Qwen VL 系列模型实现图片分类和OCR任务",
+      "created": "2025-01-10 08:00",
+      "link": "https://www.lapis.cafe/posts/technicaltutorials/ai-powered-image-organization/",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
+    },
+    {
       "title": "推荐一个手机上管理 ProxmoxVE 的应用：ProxMon",
       "created": "2025-01-09 23:17",
       "link": "https://blog.liuzhen932.top/posts/proxmon/",
@@ -720,6 +713,13 @@
       "link": "https://lin-blog.xyz/archives/2025/01032117/",
       "author": "Lin-Blog",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/183914.webp"
+    },
+    {
+      "title": "投资101：策略交易解析",
+      "created": "2025-01-03 08:00",
+      "link": "https://www.lapis.cafe/posts/finance--economics/trading101-quant-trading/",
+      "author": "时歌的博客",
+      "avatar": "https://www.lapis.cafe/upload/20240323172736.png"
     },
     {
       "title": "我的 2024 —— 从 A 到 Z",
@@ -1422,6 +1422,13 @@
       "avatar": "https://i1.wp.com/s3.ax1x.com/2021/01/31/yEfCCR.png"
     },
     {
+      "title": "小狐狸ChatGPT付费Ai创作系统V2.7.2独立版+WEB端+H5端+小程序端（支持最新AI对话）",
+      "created": "2024-03-04 10:22",
+      "link": "https://stvue.com/archives/147.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "第三方网易音乐播放器安利",
       "created": "2024-02-11 20:37",
       "link": "https://kamiasuka.top/archives/870",
@@ -1485,11 +1492,25 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
+      "title": "一条通知 - 优秀的通知功能增强和管理的工具（Android）",
+      "created": "2023-12-16 09:46",
+      "link": "https://stvue.com/archives/139.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "Argon主题美化",
       "created": "2023-12-15 13:23",
       "link": "https://kamiasuka.top/archives/726",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
+    },
+    {
+      "title": "江小二工具箱 - 免费抖音作品提取、违禁词检测、批量下载、去水印工具",
+      "created": "2023-12-13 01:56",
+      "link": "https://stvue.com/archives/132.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "博客主题推荐",
@@ -1499,11 +1520,25 @@
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
     },
     {
+      "title": "ZeVideo - Typecho视频主题重构版（支持采集功能）",
+      "created": "2023-12-10 10:37",
+      "link": "https://stvue.com/archives/124.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
+    },
+    {
       "title": "个人博客网站搭建",
       "created": "2023-12-09 21:06",
       "link": "https://kamiasuka.top/archives/631",
       "author": "KAMIASUKA’s Blog",
       "avatar": "https://i1.wp.com/foruda.gitee.com/avatar/1699007508663606881/13417927_kamiasuka_1699007508.png!avatar200"
+    },
+    {
+      "title": "湖州之旅 · 太湖边的一座古城",
+      "created": "2023-12-09 07:29",
+      "link": "https://stvue.com/archives/80.html",
+      "author": "芸熙の小屋",
+      "avatar": "http://store-tu.sdn.stvue.com/2022/04/02/6247410a43f6a.jpg"
     },
     {
       "title": "幽门螺旋杆菌的治疗",
