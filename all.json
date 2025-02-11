@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 70,
-    "active_num": 50,
-    "error_num": 20,
-    "article_num": 225,
-    "last_updated_time": "2025-02-11 02:18:11"
+    "active_num": 48,
+    "error_num": 22,
+    "article_num": 215,
+    "last_updated_time": "2025-02-11 08:56:48"
   },
   "article_data": [
     {
@@ -36,7 +36,7 @@
       "avatar": "https://q.qlogo.cn/g?b=qq&nk=1340326824&s=0"
     },
     {
-      "title": "云服务器用Ollama+OpenWebui部署DeepSeek-R1大语言模型，DeepSeek本地化部署教程",
+      "title": "DeepSeek私有化部署教程 | 云服务器用Ollama+OpenWebUI部署DeepSeek-R1大语言模型",
       "created": "2025-02-11 03:53",
       "link": "https://blog.zeruns.com/archives/853.html",
       "author": "Zeruns's Blog",
@@ -190,6 +190,13 @@
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
+      "title": "一指灵通安全硬件体验",
+      "created": "2025-02-07 13:09",
+      "link": "https://blog.goodboyboy.top/posts/3512270884.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+    },
+    {
       "title": "Linux搭建Minecraft《龙之冒险:新征程2.0》整合包服务器 | 我的世界开服教程",
       "created": "2025-02-07 11:53",
       "link": "https://blog.zeruns.com/archives/852.html",
@@ -267,13 +274,6 @@
       "avatar": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"
     },
     {
-      "title": "重新认识我",
-      "created": "2025-02-05 00:15",
-      "link": "https://blog.647382.xyz/posts/talk/about-me",
-      "author": "烧瑚烙饼乱刨笔记",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
-    },
-    {
       "title": "Hugo 渲染超时问题的解决笔记",
       "created": "2025-02-05 00:00",
       "link": "https://dusays.com/796/",
@@ -286,6 +286,13 @@
       "link": "https://physnya.top/2025/02/03/weekly-16/",
       "author": "菲兹克斯喵blog",
       "avatar": "https://physnya.top/img/physics_nya.jpg"
+    },
+    {
+      "title": "DeepSeek API挂了？SiliconFlow来救！",
+      "created": "2025-02-03 16:51",
+      "link": "https://blog.goodboyboy.top/posts/2942945809.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
       "title": "当信息流开始遵循我的语法：TG RSS BOT 搭建教程与开源项目推荐",
@@ -321,13 +328,6 @@
       "link": "https://blog.bornforthis.cn/posts/c3c4188c.html",
       "author": "AI 悦创",
       "avatar": "https://bornforthis.cn/aiyc.svg"
-    },
-    {
-      "title": "记录 2025 年第 33 天",
-      "created": "2025-02-02 19:40",
-      "link": "https://blog.647382.xyz/notes/12",
-      "author": "烧瑚烙饼乱刨笔记",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "苹果 Mac Mini M4 迷你主机简单测评和拆解，最强单核性能的小主机",
@@ -470,13 +470,6 @@
       "avatar": "https://physnya.top/img/physics_nya.jpg"
     },
     {
-      "title": "记录 2025 年第 26 天",
-      "created": "2025-01-26 12:04",
-      "link": "https://blog.647382.xyz/notes/11",
-      "author": "烧瑚烙饼乱刨笔记",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
-    },
-    {
       "title": "Docker命令-本地镜像管理",
       "created": "2025-01-26 10:10",
       "link": "http://zxwlove.xyz/posts/docker06.html",
@@ -503,20 +496,6 @@
       "link": "https://hexo.dreamerhe.cn/posts/4410/",
       "author": "梦想之都",
       "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/885958.webp"
-    },
-    {
-      "title": "关于本站文章分类调整的公告",
-      "created": "2025-01-24 01:02",
-      "link": "https://blog.647382.xyz/posts/notice/change-typr",
-      "author": "烧瑚烙饼乱刨笔记",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
-    },
-    {
-      "title": "半夜杂谈一年后",
-      "created": "2025-01-24 00:45",
-      "link": "https://blog.647382.xyz/notes/10",
-      "author": "烧瑚烙饼乱刨笔记",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/043240.webp"
     },
     {
       "title": "公共澡堂洗澡体验",
@@ -547,6 +526,13 @@
       "avatar": "https://bornforthis.cn/aiyc.svg"
     },
     {
+      "title": "续期Azure学生账户的曲折经历",
+      "created": "2025-01-20 13:08",
+      "link": "https://blog.goodboyboy.top/posts/3558250291.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
+    },
+    {
       "title": "Typecho机器人提醒插件-RobotPush",
       "created": "2025-01-20 05:42",
       "link": "https://xyzbz.cn/archives/1317/",
@@ -559,6 +545,13 @@
       "link": "https://blog.kfdzcoffee.cn/archives/Choosedisciplines",
       "author": "咖啡豆子 coffee 的小站",
       "avatar": "https://image.kfdzcoffee.cn/i/1/avatar.png"
+    },
+    {
+      "title": "记忆中的烟花",
+      "created": "2025-01-18 19:14",
+      "link": "https://blog.goodboyboy.top/posts/2892547641.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
       "title": "Hi！云南",
@@ -622,6 +615,13 @@
       "link": "https://blog.xiowo.net/posts/anzhiyu/",
       "author": "Mo的记事簿",
       "avatar": "https://blog.xiowo.net/img/avatar.png"
+    },
+    {
+      "title": "小巷中的理发店",
+      "created": "2025-01-14 13:50",
+      "link": "https://blog.goodboyboy.top/posts/2679258869.html",
+      "author": "GoodBoyboy's Blog",
+      "avatar": "https://i1.wp.com/gravatar.goodboyboy.top/avatar/9da9d1d515d273d4794015f2321f6e04?s=96&d=monsterid&r=g"
     },
     {
       "title": "孩子们，我回来了！（2）",
@@ -855,13 +855,6 @@
       "avatar": "https://img.zhxubk.cn/typecho/usr/uploads/2024/03/2936909459.jpg"
     },
     {
-      "title": "人生的意义到底是什么",
-      "created": "2024-11-18 08:23",
-      "link": "https://mnchen.cn/posts/1014.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "聊聊键盘！（一）配列",
       "created": "2024-11-16 21:00",
       "link": "https://blog.sdnie.fun/archives/keyboard.html",
@@ -909,13 +902,6 @@
       "link": "https://blog.bsgun.cn/posts/7fe03505/",
       "author": "梦爱吃鱼",
       "avatar": "https://oss-cdn.bsgun.cn/logo/avatar.256.png"
-    },
-    {
-      "title": "anzhiyu主题自定义博客字体",
-      "created": "2024-11-06 08:23",
-      "link": "https://mnchen.cn/posts/1013.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "EasyPub-轻量Kindle电子书格式转换工具",
@@ -967,25 +953,11 @@
       "avatar": "https://www.biliwind.com/favicon.ico"
     },
     {
-      "title": "在页脚位置添加动物（pjax修复）",
-      "created": "2024-10-25 00:00",
-      "link": "https://mnchen.cn/posts/1012.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
-    },
-    {
       "title": "数据结构-线性表（顺序表）",
       "created": "2024-10-24 17:07",
       "link": "https://xingji.fun/posts/20241024/",
       "author": "XingJiのBlog",
       "avatar": "https://i1.wp.com/dev.ruom.top/i/2024/09/14/041984.jpg"
-    },
-    {
-      "title": "python爬虫分享（爬取静态网站）",
-      "created": "2024-10-18 00:00",
-      "link": "https://mnchen.cn/posts/1011.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "Linux root 账户及 ssh 链接问题",
@@ -1056,13 +1028,6 @@
       "link": "https://www.luyaoguagua.top/Med/pharmacology",
       "author": "Gua’s Nest",
       "avatar": "https://i1.wp.com/www.luyaoguagua.top/hotlink-ok/favicon.jpg"
-    },
-    {
-      "title": "在公告栏添加一个随机ikun",
-      "created": "2024-10-01 00:00",
-      "link": "https://mnchen.cn/posts/1010.html",
-      "author": "前尘小筑",
-      "avatar": "https://koimg.cn-sy1.rains3.com/2024/09/16/323702.webp"
     },
     {
       "title": "Flex-布局的基本使用（基本啦！！）",
@@ -1296,13 +1261,6 @@
       "avatar": "https://bokebo.com/logo.png"
     },
     {
-      "title": "一次比较离谱的电脑维修经历",
-      "created": "2024-07-06 20:28",
-      "link": "https://lonelyenderman.top/archives/1095",
-      "author": "小小黑的个人小站",
-      "avatar": "https://i1.wp.com/img.lonelyenderman.top/i/2023/03/10/nk4zd5.jpeg"
-    },
-    {
       "title": "T618冷门平板刷机从入门到理赔",
       "created": "2024-07-01 22:03",
       "link": "https://my.toho.red/posts/broke-t618-tablet/",
@@ -1520,20 +1478,6 @@
       "avatar": "https://starsei.com/favicon.ico"
     },
     {
-      "title": "合并两个有序链表（双指针）",
-      "created": "2023-08-10 21:52",
-      "link": "https://lonelyenderman.top/archives/1048",
-      "author": "小小黑的个人小站",
-      "avatar": "https://i1.wp.com/img.lonelyenderman.top/i/2023/03/10/nk4zd5.jpeg"
-    },
-    {
-      "title": "个人塔防游戏Demo开发思路（UE4）",
-      "created": "2023-08-02 18:04",
-      "link": "https://lonelyenderman.top/archives/1039",
-      "author": "小小黑的个人小站",
-      "avatar": "https://i1.wp.com/img.lonelyenderman.top/i/2023/03/10/nk4zd5.jpeg"
-    },
-    {
       "title": "氵一篇日常",
       "created": "2023-04-22 02:10",
       "link": "https://blog.jitsu.top/archives/35/",
@@ -1553,20 +1497,6 @@
       "link": "https://blog.jitsu.top/archives/30/",
       "author": "Jitsuの空",
       "avatar": "https://cdn.jitsu.top/img/blog/blog.jpeg"
-    },
-    {
-      "title": "适用于个人博客的WordPress插件",
-      "created": "2022-12-09 16:13",
-      "link": "https://lonelyenderman.top/archives/896",
-      "author": "小小黑的个人小站",
-      "avatar": "https://i1.wp.com/img.lonelyenderman.top/i/2023/03/10/nk4zd5.jpeg"
-    },
-    {
-      "title": "GetMessage()与PeekMessage()的区别（Win32）",
-      "created": "2022-09-03 18:45",
-      "link": "https://lonelyenderman.top/archives/899",
-      "author": "小小黑的个人小站",
-      "avatar": "https://i1.wp.com/img.lonelyenderman.top/i/2023/03/10/nk4zd5.jpeg"
     },
     {
       "title": "随机涩图API——随机返回我老婆（",
